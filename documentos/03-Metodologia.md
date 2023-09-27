@@ -56,13 +56,11 @@ Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados a
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
-
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
+| Repositório de código fonte         | GitHub                             | <http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/README.md/>                       |
 | Documentos do projeto               | GitHub                             | http://....                            |
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
