@@ -1,8 +1,7 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
+Essa seção descreve a metodologia aplicada na gestão do projeto, selecionada considerando o escopo inicial, bem como a entrega e suas etapas com respectivos prazos, as quais serão justificadas pela natureza do projeto desenvolvido. Também é listado as opções de gerenciamento do projeto e as atribuições do time. 
 
 ## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
