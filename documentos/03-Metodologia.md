@@ -65,11 +65,11 @@ modo que todos tenham o mesmo entendimento dos artefatos. (Schwaber & Sutherland
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/README.md/>                       |
-| Documentos do projeto               | GitHub                             | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/tree/main/documentos/>                            |
-| Projeto de Interface                | Figma                              |<https://www.figma.com/file/yUvmrohaUlw7PwJMlVW6uM/recomenda%C3%A7%C3%B5es-confi%C3%A1veis?type=design&node-id=0%3A1&mode=design&t=kvjiqY7TEpn5GllP-1/>                          |
-| Gerenciamento do Projeto            | Trello                |<https://trello.com/b/QBkudrq4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end-turma-03-2023-2/>                           |
-| Hospedagem                          | GitHub Pages                       |<https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/tree/main/apresentacao/>                          |
+| Repositório de código fonte         | GitHub                             | [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/README.md)                       |
+| Documentos do projeto               | GitHub                             | [Documentos do projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/tree/main/documentos)                          |
+| Projeto de Interface                | Figma                              |[Projeto da Interface](https://www.figma.com/file/yUvmrohaUlw7PwJMlVW6uM/recomenda%C3%A7%C3%B5es-confi%C3%A1veis?type=design&node-id=0%3A1&mode=design&t=kvjiqY7TEpn5GllP-1)                  |
+| Gerenciamento do Projeto            | Trello                |[Gerenciamento do Projeto](https://trello.com/b/QBkudrq4/eixo-1-projeto-desenvolvimento-de-aplica%C3%A7%C3%A3o-web-front-end-turma-03-2023-2)                         |
+| Hospedagem                          | GitHub Pages                       |[Hospedagem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/tree/main/apresentacao)                      |
 
 
 ### Estratégia de Organização de Codificação 
