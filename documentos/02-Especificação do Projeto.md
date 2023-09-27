@@ -1,5 +1,7 @@
 # Especificação do Projeto
 
+Os pontos indicados através da observação dos usuários no cotidiano e de um questionário realizado pelos integrantes da Equipe, com perguntas objetivas elaboradas a fim de definir o perfil dos consumidores, juntamente com suas “dores” e motivações. Os detalhes levantados nesta pesquisa foram consolidados, gerando assim o perfil dos usuários e suas respectivas histórias.
+
 ## Perfis de Usuários
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
