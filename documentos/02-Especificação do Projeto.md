@@ -37,7 +37,7 @@
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 ### Requisitos Funcionais
 
@@ -47,6 +47,8 @@
 |-------|---------------------------------|----|
 | RF-01 |  ...                    | ...   | 
 |  ...  |  ...                    | ...   |
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
