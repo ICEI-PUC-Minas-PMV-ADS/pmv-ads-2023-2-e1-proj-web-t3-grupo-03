@@ -1,6 +1,8 @@
 # Especificação do Projeto
 
-Os pontos indicados através da observação dos usuários no cotidiano e de um questionário realizado pelos integrantes da Equipe, com perguntas objetivas elaboradas a fim de definir o perfil dos consumidores, juntamente com suas “dores” e motivações. Os detalhes levantados nesta pesquisa foram consolidados, gerando assim o perfil dos usuários e suas respectivas histórias.
+Através da observação do cotidiano do público alvo e de um questionário realizado pelos membros da Equipe, ficou definido um padrão de motivações e "dores", identificados por meio de perguntas objetivas a fim de definir o perfil dos consumidores.
+
+Os detalhes levantados nesta pesquisa foram utilizados para formação do perfil do usuário e suas respectivas histórias, conforme segue abaixo.
 
 ## Perfis de Usuários
 
