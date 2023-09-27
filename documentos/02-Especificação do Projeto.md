@@ -64,7 +64,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |-------|---------------------------------|----|
 | RNF-01 |O site deve operar de forma responsiva e rápida nos principais navegadores, em desktop e em suas versões mobile. | Alta  |
  |RNF-02 | O site deve proteger os dados e garantir a segurança aos usuários, fazer gestão de cookies adequada à LGPD e usar o protocolo TLS/SSL (HTTPS).           | Alta|
-| RF-03 | O site deve ser fácil de usar, intuitivo e rápido para o usuário.    |Alta |
+| RNF-03 | O site deve ser fácil de usar, intuitivo e rápido para o usuário.    |Alta |
 |  RNF-04  | O site deverá apresentar leitor de tela e descrição de imagens para uso por pessoas com deficiências visuais.           | Média  |
 | RNF-05 |O site deverá permitir o uso de alto contraste de cor.          | Alta |
 | RNF-06| O site deverá oferecer a possibilidade de mudar o tamanho do texto de exibição.        |Média |
