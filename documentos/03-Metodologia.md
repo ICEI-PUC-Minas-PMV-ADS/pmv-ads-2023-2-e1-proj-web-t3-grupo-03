@@ -4,9 +4,12 @@
 Essa seção descreve a metodologia aplicada na gestão do projeto, selecionada considerando o escopo inicial, bem como a entrega e suas etapas com respectivos prazos, as quais serão justificadas pela natureza do projeto desenvolvido. Também são listadas as opções de gerenciamento do projeto e as atribuições do time. 
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
+      Entre as alternativas para gerenciamento de projetos, preditivo e a ágil, o desenvolvimento deste projeto optou pelo último, considerando a duração reduzida entre o início e a entrega final. Sendo a metodologia scrum a mais adequada para seu desenvolvimento em razão de sua capacidade em resolver problemas e criar soluções de maneira mais econômica e a flexibilidade e liberdade da equipe para executar o projeto na direção do objeto final. 
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+                   “A essência do Scrum é uma equipe auto-organizada que entrega valor ao cliente no período de um timebox chamado 
+                    Sprint. O Scrum define artefatos, funções e eventos associados a cada Sprint.” (SUTHERLAND, 2016) 
+
+	Ainda segundo Schwaber & Sutherland (2016) em o Guia Scrum, o Time de Desenvolvimento é composto por profissionais responsáveis pela entrega de uma versão usável do produto, potencialmente incrementando-o como "Pronto" no final de cada Sprint. Deve-se notar que apenas os membros do Time de Desenvolvimento são encarregados da criação desses incrementos. Além disso, os Times de Desenvolvimento possuem autonomia e autorização da organização para organizar e gerenciar suas próprias atividades. Essa sinergia resultante aprimora tanto a eficiência quanto a eficácia do Time de Desenvolvimento como um todo.
 
 ### Divisão de Papéis
 
