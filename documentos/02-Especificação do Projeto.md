@@ -60,7 +60,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 
 
-||ID    | Descrição                | Prioridade |
+|ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RNF-01 |O site deve operar de forma responsiva e rápida nos principais navegadores, em desktop e em suas versões mobile. | Alta  |
  |RNF-02 | O site deve proteger os dados e garantir a segurança aos usuários, fazer gestão de cookies adequada à LGPD e usar o protocolo TLS/SSL (HTTPS).           | Alta|
