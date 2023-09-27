@@ -2,11 +2,9 @@
 
 Através da observação do cotidiano do público alvo e de um questionário realizado pelos membros da Equipe, ficou definido um padrão de motivações e "dores", identificados por meio de perguntas objetivas a fim de definir o perfil dos consumidores.
 
-Os detalhes levantados nesta pesquisa foram utilizados para formação do perfil do usuário e suas respectivas histórias, conforme segue abaixo.
-
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+Os detalhes levantados neste processo de pesquisa foram utilizados para formação do perfil do usuário, conforme segue abaixo.
 
 <table>
 <tbody>
