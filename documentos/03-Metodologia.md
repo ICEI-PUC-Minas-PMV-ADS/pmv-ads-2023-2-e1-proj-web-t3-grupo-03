@@ -14,17 +14,13 @@ Ainda segundo Schwaber & Sutherland (2016) em o Guia Scrum, o Time de Desenvolvi
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados abaixo para o desenvolvimento do projeto, seguindo o descrito por Schwaber & Sutherland (2016). O Time Scrum é composto por três papéis principais: o Product Owner, o Time de Desenvolvimento e o Scrum Master. Esses times são caracterizados por serem auto-organizáveis, o que significa que têm a autonomia de escolher a melhor maneira de realizar seu trabalho, sem a necessidade de direção externa. Além disso, são multifuncionais, o que implica que possuem todas as habilidades necessárias para concluir o trabalho sem depender de recursos externos. O objetivo do modelo de time no Scrum é otimizar a flexibilidade, a criatividade e a produtividade. Eles entregam produtos de forma iterativa e incremental, garantindo que versões potencialmente funcionais do produto estejam sempre disponíveis, o que maximiza as oportunidades de feedback. Ainda para este projeto a equipe de desenvolvimento foi desmebrando em desenvolvimento e design. 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Scrum Master: Zaquel de Souza Marçal
+- Product Owner: Hênio Pereira Fontes
+- Equipe de Desenvolvimento: Felipe Montijo Maxhado, Marcella Giulia Silva Siqueira e Vinícius Flores Ribeiro. 
+- Equipe de Design: Júlia Eduarda V. Santos 
+
 
 ### Processo
 
