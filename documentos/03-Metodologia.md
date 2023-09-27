@@ -58,6 +58,11 @@ Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados a
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
+"Os artefatos do Scrum representam o trabalho ou o valor para o fornecimento de
+transparência e oportunidades para inspeção e adaptação. Os artefatos definidos para o Scrum
+são especificamente projetados para maximizar a transparência das informações chave de
+modo que todos tenham o mesmo entendimento dos artefatos. (Schwaber & Sutherland, 2016)
+
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/README.md/>                       |
