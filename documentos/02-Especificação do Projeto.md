@@ -2,6 +2,8 @@
 
 Através da observação do cotidiano do público alvo e de um questionário realizado pelos membros da Equipe, ficou definido um padrão de motivações e "dores", identificados por meio de perguntas objetivas a fim de definir o perfil dos consumidores.
 
+
+
 ## Perfis de Usuários
 
 Os detalhes levantados neste processo de pesquisa foram utilizados para formação do perfil do usuário, conforme segue abaixo.
@@ -43,6 +45,7 @@ Os detalhes levantados neste processo de pesquisa foram utilizados para formaç�
 </tr>
 </tbody>
 </table>
+
 
 
 ## Histórias de Usuários
@@ -92,6 +95,7 @@ A partir da compreensão das motivações e frustrações dos usuários identifi
 </tr>
 </tbody>
 </table>
+
 
 
 ## Requisitos do Projeto
