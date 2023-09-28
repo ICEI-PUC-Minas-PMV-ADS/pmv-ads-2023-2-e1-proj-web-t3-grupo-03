@@ -39,7 +39,8 @@ Por opção de login também é ofertado o login através de contas existentes n
 </figure> 
 
 
-###Tela – Recuperação de Senha 
+
+### Tela – Recuperação de Senha 
 
 A tela de recuperação de senha oferece ao usuário a recuperação de senha, após informar na tela inicial o seu username ou e-mail cadastrado, o sistema oferece duas opções de recuperação, receber o código por e-mail ou SMS em telefone cadastrado. O sistema exigirá informar o código recebido e a criação de nova senha. 
 
