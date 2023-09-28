@@ -18,16 +18,19 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+### Wireframes
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+
+Conforme fluxo de telas apresentado, as telas do sistema apresentam estrutura em quatro blocos, conforme segue: 
+
+●	Cabeçalho – apresenta a identidade visual do programa e do usuário, além das caixas de pesquisa para direcionar a produtos específicos e outros usuários; 
+●	Conteúdo - apresenta o conteúdo da tela, feed, descrição do produto;
+●	Barra lateral direita - apresenta os amigos on-line e conteúdo de chat privado ativo;
+●	Barra lateral esquerda – apresenta botões de direcionamento para outras áreas de navegação do sistema; 
+
+
+
+
 
 
 
