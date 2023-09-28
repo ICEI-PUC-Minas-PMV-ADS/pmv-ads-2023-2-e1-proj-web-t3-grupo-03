@@ -39,6 +39,25 @@ Por opção de login também é ofertado o login através de contas existentes n
 </figure> 
 
 
+##Tela – Recuperação de Senha 
+
+A tela de recuperação de senha oferece ao usuário a recuperação de senha, após informar na tela inicial o seu username ou e-mail cadastrado, o sistema oferece duas opções de recuperação, receber o código por e-mail ou SMS em telefone cadastrado. O sistema exigirá informar o código recebido e a criação de nova senha. 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.1-recuperacaoSenha.png"
+    <figcaption> Tela de recuperação de senha </figcaption>
+</figure> 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.2-recuperacaoSenha.png"
+    <figcaption> Tela de recuperação de senha </figcaption>
+</figure> 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.3-recuperacaoSenha.png"
+    <figcaption> Tela de recuperação de senha </figcaption>
+</figure> 
+
 
 
 
