@@ -26,7 +26,18 @@ Conforme fluxo de telas apresentado, as telas do sistema apresentam estrutura em
 - Cabeçalho – apresenta a identidade visual do programa e do usuário, além das caixas de pesquisa para direcionar a produtos específicos e outros usuários;
 - Conteúdo - apresenta o conteúdo da tela, feed, descrição do produto;
 - Barra lateral direita - apresenta os amigos on-line e conteúdo de chat privado ativo;
-- Barra lateral esquerda – apresenta botões de direcionamento para outras áreas de navegação do sistema; 
+- Barra lateral esquerda – apresenta botões de direcionamento para outras áreas de navegação do sistema;
+
+### Tela – Login 
+
+A tela de login é a primeira tela de acesso do usuário no site, para acessar qualquer conteúdo obrigatoriamente precisa haver um usuário cadastrado. Nesta tela além das opções do login, também é oferecido direcionamento para pessoas que desejam cadastrar no site e àquelas que já são cadastradas e que, eventualmente, tenha esquecido as credenciais de acesso. 
+Por opção de login também é ofertado o login através de contas existentes no Google e Facebook.  
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T001.1-login.png"
+    <figcaption> Tela de login </figcaption>
+</figure> 
+
 
 
 
