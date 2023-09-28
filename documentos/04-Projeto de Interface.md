@@ -58,6 +58,16 @@ A tela de recuperação de senha oferece ao usuário a recuperação de senha, a
     <figcaption> Tela de recuperação de senha </figcaption>
 </figure> 
 
+##
+Tela – Cadastro  
+
+A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu cadastro no site. 
+
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T003.1-cadastro.png"
+    <figcaption> Tela de cadastro </figcaption>
+</figure> 
 
 
 
