@@ -47,17 +47,51 @@ Os detalhes levantados neste processo de pesquisa foram utilizados para formaç�
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
+<table>
+<tbody>
+<tr align=center>
+<td colspan="1"> Eu como... "Quem" </td>
+<td colspan="1"> Quero/Desejo... "O que" </td>
+<td colspan="1"> Para... "Por que" </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Hênio Fontes </td>
+<td colspan="1"> Indicação de conteúdo personalizada. </td>
+<td colspan="1"> Evitar consumo de produtos que não condizem com meu perfil. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Hênio Fontes </td>
+<td colspan="1"> Recomendações de conteúdos em plataformas que sou assinante (Ex: Netflix). </td>
+<td colspan="1"> Encontrar produtos que já possuo acesso, sem ter a necessidade de compras/assinar outros meios. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Jenifer da Silva </td>
+<td colspan="1"> Deseja boas recomendações em um site de fácil acesso e utilização. </td>
+<td colspan="1"> Para diminuir o tempo gasto procurando conteúdos. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Hênio Fontes </td>
+<td colspan="1"> Deseja histórico de filmes que já assistiu para ter a opção de não repeti=los. </td>
+<td colspan="1"> Não assistir conteúdos repetidos. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Jenifer da Silva </td>
+<td colspan="1"> Indicação de diferentes tipos de conteúdo. </td>
+<td colspan="1"> Encontrat em uma só plataforma diversos temas, sem a necessidade de consultar vários sites. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Hênio Fontes </td>
+<td colspan="1"> Possibilidade de haver uma lista de favoritos para assistir quando quiser. </td>
+<td colspan="1"> Guardar conteúdos interessantes e não perdê-los na aplicação. </td>
+</tr>
+<tr align=center>
+<td colspan="1"> Jenifer da Silva </td>
+<td colspan="1"> Poder compartilhar o que está vendo e ouvindo com amigos e familiares. </td>
+<td colspan="1"> Incentivar o interesse dos mesmos no mundo cultural. </td>
+</tr>
+</tbody>
+</table>
 
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
 
