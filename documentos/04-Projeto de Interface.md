@@ -23,10 +23,10 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 Conforme fluxo de telas apresentado, as telas do sistema apresentam estrutura em quatro blocos, conforme segue: 
 
-●	Cabeçalho – apresenta a identidade visual do programa e do usuário, além das caixas de pesquisa para direcionar a produtos específicos e outros usuários; 
-●	Conteúdo - apresenta o conteúdo da tela, feed, descrição do produto;
-●	Barra lateral direita - apresenta os amigos on-line e conteúdo de chat privado ativo;
-●	Barra lateral esquerda – apresenta botões de direcionamento para outras áreas de navegação do sistema; 
+- Cabeçalho – apresenta a identidade visual do programa e do usuário, além das caixas de pesquisa para direcionar a produtos específicos e outros usuários;
+- Conteúdo - apresenta o conteúdo da tela, feed, descrição do produto;
+- Barra lateral direita - apresenta os amigos on-line e conteúdo de chat privado ativo;
+- Barra lateral esquerda – apresenta botões de direcionamento para outras áreas de navegação do sistema; 
 
 
 
