@@ -1,12 +1,12 @@
 # Especificação do Projeto
 
-Através da observação do cotidiano do público alvo e de um questionário realizado pelos membros da Equipe, ficou definido um padrão de motivações e "dores", identificados por meio de perguntas objetivas a fim de definir o perfil dos consumidores.
+<p> Através da observação do cotidiano do público alvo e de um questionário realizado pelos membros da Equipe, ficou definido um padrão de motivações e "dores", identificados por meio de perguntas objetivas a fim de definir o perfil dos consumidores. </p>
 
 
 
 ## Perfis de Usuários
 
-Os detalhes levantados neste processo de pesquisa foram utilizados para formação do perfil do usuário, conforme segue abaixo.
+<p> Os detalhes levantados neste processo de pesquisa foram utilizados para formação do perfil do usuário, conforme segue abaixo. </p> 
 
 <table>
 <tbody>
@@ -49,7 +49,7 @@ Os detalhes levantados neste processo de pesquisa foram utilizados para formaç�
 
 
 ## Histórias de Usuários
-A partir da compreensão das motivações e frustrações dos usuários identificados como persona do projeto, foram apontas as histórias contidas na tabela abaixo:
+<p> A partir da compreensão das motivações e frustrações dos usuários identificados como persona do projeto, foram apontas as histórias contidas na tabela abaixo: </p> 
 
 <table>
 <tbody>
