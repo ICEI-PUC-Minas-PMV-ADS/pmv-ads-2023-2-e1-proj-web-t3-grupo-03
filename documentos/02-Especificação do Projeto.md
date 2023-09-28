@@ -46,7 +46,7 @@ Os detalhes levantados neste processo de pesquisa foram utilizados para formaç�
 
 
 ## Histórias de Usuários
-A partir da compreensão das motivações e frustrações dos usuários identificados como persona do projeto XXXXXXXXX, foram apontas as histórias contidas na tabela abaixo:
+A partir da compreensão das motivações e frustrações dos usuários identificados como persona do projeto, foram apontas as histórias contidas na tabela abaixo:
 
 <table>
 <tbody>
