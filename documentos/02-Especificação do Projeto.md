@@ -9,15 +9,37 @@ Os detalhes levantados neste processo de pesquisa foram utilizados para formaç�
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="4">Perfil: Hênio Pereira Fontes </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+ <td width="150px"><b>Descrição: </b></td>
+ <td width="150px"> Idade: 39 anos. </td>
+ <td width="200px"> Ocupação: Analista de Negócios. </td>
+ <td width="250px"> Hobbies: Gosta de ouvir música e particar esportes. </td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td>
-<td>...</td>
+<td width="150px"><b>Necessidades: </b></td>
+<td width="300px"> Encontrar recomendações personalizadas do seu perfil em uma única aplicação web. </td>
+<td colspan="2"> Não deseja perder mais tempo com indicações de conteúdos ruins. </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="4">Perfil: Jenifer Luiza da Silva </th>
+</tr>
+<tr>
+ <td width="150px"><b>Descrição: </b></td>
+ <td width="150px"> Idade: 23 anos. </td>
+ <td width="200px"> Ocupação: Publicitária. </td>
+ <td width="250px"> Hobbies: Apaixonada por filmes e séries. </td>
+</tr>
+<tr>
+<td width="150px"><b>Necessidades: </b></td>
+<td width="300px"> Encontrar indicações de bons contéudos uma única aplicação web. </td>
+<td colspan="2"> Deseja compartilhar sua opinião com amigos e familiares em uma aplicação web personalizada para isso. </td>
 </tr>
 </tbody>
 </table>
