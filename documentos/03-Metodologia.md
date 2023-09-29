@@ -18,7 +18,7 @@ Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados a
 
 - Scrum Master: Marcella Giulia Silva Siqueira
 - Product Owner: Zaquel de Souza Marçal
-- Equipe de Desenvolvimento: Felipe Montijo Maxhado e Hênio Pereira Fontes. 
+- Equipe de Desenvolvimento: Felipe Montijo Machado e Hênio Pereira Fontes. 
 - Equipe de Design: Júlia Eduarda V. Santos 
 
 
