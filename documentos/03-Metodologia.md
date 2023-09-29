@@ -16,9 +16,9 @@ Ainda segundo Schwaber & Sutherland (2016) em o Guia Scrum, o Time de Desenvolvi
 
 Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados abaixo para o desenvolvimento do projeto, seguindo o descrito por Schwaber & Sutherland (2016). O Time Scrum é composto por três papéis principais: o Product Owner, o Time de Desenvolvimento e o Scrum Master. Esses times são caracterizados por serem auto-organizáveis, o que significa que têm a autonomia de escolher a melhor maneira de realizar seu trabalho, sem a necessidade de direção externa. Além disso, são multifuncionais, o que implica que possuem todas as habilidades necessárias para concluir o trabalho sem depender de recursos externos. O objetivo do modelo de time no Scrum é otimizar a flexibilidade, a criatividade e a produtividade. Eles entregam produtos de forma iterativa e incremental, garantindo que versões potencialmente funcionais do produto estejam sempre disponíveis, o que maximiza as oportunidades de feedback. Ainda para este projeto a equipe de desenvolvimento foi desmebrando em desenvolvimento e design. 
 
-- Scrum Master: Zaquel de Souza Marçal
-- Product Owner: Hênio Pereira Fontes
-- Equipe de Desenvolvimento: Felipe Montijo Maxhado, Marcella Giulia Silva Siqueira e Vinícius Flores Ribeiro. 
+- Scrum Master: Marcella Giulia Silva Siqueira
+- Product Owner: Zaquel de Souza Marçal
+- Equipe de Desenvolvimento: Felipe Montijo Maxhado e Hênio Pereira Fontes. 
 - Equipe de Design: Júlia Eduarda V. Santos 
 
 
