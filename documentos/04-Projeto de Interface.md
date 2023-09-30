@@ -70,8 +70,43 @@ A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu ca
     <figcaption> Tela de cadastro </figcaption>
 </figure> 
 
+### Tela – Busca de produto
+
+- Componente de pesquisa permite ao usuário buscar o produto que deseja. Dentre os produtos pesquisados estão filmes, series, jogos. Ao digitar as letras que descrevem o produto a aplicação sugere ao usuário possíveis produtos com base no que está sendo digitado. A sugestão de produto se obtém em um campo anexo a barra de busca com os seguintes caracteres do produto : foto, nome, qualificação, país de criação, data de criação, em caso de filmes e séries tempo de duração e gêneros que pertencem. 
 
 
 
 
+### Tela – Produto
 
+Tela do produto
+A tela do produto apresenta dados pertinentes e direcionados ao produto pesquisado.
+- Foto do produto seguido pelo nome, nota de qualificação, país de criação, data de criação, tempo de duração, categorias as quais o produto se enquadra, elenco e produção (escrito de forma proposital para clique abertura de pop up com foto e descrição do elenco e produção), sinopse do produto. 
+- Em um campo abaixo das descrições anteriores temos um campo de vídeo com o objetivo de apresentar o produto de forma visual.
+
+- Espaço para comentário. Localizado abaixo do campo destinado para vídeo o campo de comentário serve para que o usuário compartilhe em seu feed ou diretamente para um amigo a sua experiência com o produto.
+- Campo de últimos comentários tem a função de expor os últimos comentários realizados por todos usuários que buscaram o produto em especifico.
+- No campo de Similares o usuário terá acesso a produtos considerados parecidos com o produto ao qual ele pesquisou.
+
+
+
+### Tela – Qualificação do produto
+
+Na própria tela do produto o usuário pode clicar na nota média para realizar a sua qualificação do produto. Ao clicar na pontuação média sobe um pop up, o usuário terá a informação de nota média do produto e um campo para qualificação de 1 a 10 estrelas.
+
+
+
+### Tela – Elenco e produção
+
+Na tela do produto ao clicar no campo de Elenco e produção aparece um pop up com todos os atores e participantes do produto.
+
+
+
+### Tela – Indicação chat
+
+Neste campo o usuário tem a possibilidade de conversar e compartilhar produtos de forma privada com um seguidor.
+
+
+### Tela – Comentário no feed
+
+Quando o usuário publicar um comentário sobre um produto ele aparecera no feed do usuário. O produto será demonstrado na publicação com dados resumidos, assim como aparece na barra de buscar no feed. Ao clicar no produto ao qual o usuário compartilhou em seu feed os demais usuários serão direcionados para a tela do produto. Nesta tela existe a possibilidade de curtir o comentário sobre o produto e comentar na publicação do usuário responsável pelo feed.
