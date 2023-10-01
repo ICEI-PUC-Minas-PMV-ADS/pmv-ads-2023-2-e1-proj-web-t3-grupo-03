@@ -1,12 +1,12 @@
 # Recomendações confiáveis
 
-`CURSO`
+`CURSO ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`DISCIPLINA Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1º SEMESTRE `
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O sistema desenvolvido apresenta uma semelhança com as redes sociais, porém com um foco em recomendações de conteúdo de entretenimento, como filmes, livros, jogos e outros. O principal objetivo desta plataforma é facilitar e incentivar as recomendações feitas por pessoas para pessoas, sem depender de algoritmos tradicionais que muitas vezes criam uma "bolha social", limitando assim as opções dos usuários ao expor apenas o que o algoritmo acredita que o usuário gostaria. Esta plataforma permite que os usuários compartilhem seus gostos e descubram novos conteúdos de forma mais aberta e diversificada.
 
 ## Integrantes
 
