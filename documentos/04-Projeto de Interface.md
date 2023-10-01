@@ -169,7 +169,7 @@ Quando o usuário publicar um comentário sobre um produto ele aparecera no feed
 
 ### Tela – Match de Produtos 
 
-Na tela de match de produtos o usuário será apresentado a  uma seleção de produtos dentre os previamente selecionados: filmes, séries, jogos e livros. O sistema apresentará a seleção baseada em seus gostos, considerandos produtos previamente avaliados e aqueles já consumidos. Para cada produto apresentado será exibido comentários relevantes e feed de avaliação. .
+Na tela de match de produtos o usuário será apresentado a  uma seleção de produtos dentre os previamente selecionados: filmes, séries, jogos e livros. O sistema apresentará a seleção os produtos baseados nos gostos do usuario e os mais compartilhados por seus amigos. Para cada produto apresentado será exibido comentários relevantes e feed de avaliação.
 
 
 <figure> 
