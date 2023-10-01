@@ -60,7 +60,7 @@ A tela de recuperação de senha oferece ao usuário a recuperação de senha, a
 </figure> 
 
 
-##Tela – Cadastro  
+### Tela – Cadastro  
 
 A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu cadastro no site. 
 
@@ -70,21 +70,21 @@ A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu ca
     <figcaption> Tela de cadastro </figcaption>
 </figure> 
 
-##Feed
+### Feed
 <figure> 
   <img src="https://i.imgur.com/KzfX7aN.png">
     <figcaption> Tela de feed </figcaption>
 </figure> 
 Tela principal da aplicação, onde o usuário pode navegar pelas últimas recomendações de seus amigos e interagir com as publicações, dando likes e escrevendo comentários. Também é possível acessar o seu próprio perfil clicando no ícone com o seu nome, bem como o perfil de amigos ao clicar no nome de usuário em uma publicação do feed ou diretamente através da lista de amigos. Além disso, o usuário pode realizar buscas, usar o recurso de match de produtos, adicionar novos amigos e conversar com eles através de um chat de texto, acessível ao clicar no nome do amigo na lista de amigos. O ícone de configuração também está disponível nesta tela.
 
-##Perfil
+### Perfil
 <figure> 
   <img src="https://i.imgur.com/RcBDUjW.png">
     <figcaption> Tela de perfil </figcaption>
 </figure> 
 Tela de perfil onde o usuário pode editar o seu perfil (alterando nome, foto e banner), bem como ver e atualizar a lista de seus favoritos em formato de carrossel. O usuário também pode ver as suas publicações e tem um botão de configuração
 
-##configurações
+### configurações
 <figure> 
   <img src="https://i.imgur.com/r283XfC.png">
   <img src="https://i.imgur.com/cfkNUUg.png">
