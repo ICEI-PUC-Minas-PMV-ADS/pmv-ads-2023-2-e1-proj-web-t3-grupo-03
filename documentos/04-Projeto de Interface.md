@@ -69,6 +69,12 @@ A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu ca
   <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T003.1-cadastro.png"
     <figcaption> Tela de cadastro </figcaption>
 </figure> 
+###Feed
+<figure> 
+  <img src="https://imgur.com/KzfX7aN"
+    <figcaption> Tela de cadastro </figcaption>
+</figure> 
+Tela principal da aplicação, onde o usuário pode navegar pelas últimas recomendações de seus amigos e interagir com as publicações, dando likes e escrevendo comentários. Também é possível acessar o seu próprio perfil clicando no ícone com o seu nome, bem como o perfil de amigos ao clicar no nome de usuário em uma publicação do feed ou diretamente através da lista de amigos. Além disso, o usuário pode realizar buscas, usar o recurso de match de produtos, adicionar novos amigos e conversar com eles através de um chat de texto, acessível ao clicar no nome do amigo na lista de amigos. O ícone de configuração também está disponível nesta tela.
 
 ### Tela – Busca de produto
 
