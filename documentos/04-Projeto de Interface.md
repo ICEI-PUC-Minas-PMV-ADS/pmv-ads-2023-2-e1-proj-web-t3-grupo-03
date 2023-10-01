@@ -165,3 +165,19 @@ Quando o usuário publicar um comentário sobre um produto ele aparecera no feed
   <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.4-comentarioFeed.png">
    <figcaption> Tela comentário feed </figcaption>
 </figure> 
+
+
+### Tela – Match de Produtos 
+
+Na tela de match de produtos o usuário será apresentado a  uma seleção de produtos dentre os previamente selecionados: filmes, séries, jogos e livros. O sistema apresentará a seleção baseada em seus gostos, considerandos produtos previamente avaliados e aqueles já consumidos. Para cada produto apresentado será exibido comentários relevantes e feed de avaliação. .
+
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T007.1-matchProdutoV2.png">
+   <figcaption> Tela Match de Produtos </figcaption>
+</figure> 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T007.2-matchProdutoV2.png">
+   <figcaption> Tela Match de Produtos </figcaption>
+</figure> 
