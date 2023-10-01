@@ -71,10 +71,30 @@ A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu ca
 </figure> 
 ###Feed
 <figure> 
-  <img src="https://imgur.com/KzfX7aN"
-    <figcaption> Tela de cadastro </figcaption>
+  <img src="https://i.imgur.com/KzfX7aN.png"
+    <figcaption> Tela de feed </figcaption>
 </figure> 
 Tela principal da aplicação, onde o usuário pode navegar pelas últimas recomendações de seus amigos e interagir com as publicações, dando likes e escrevendo comentários. Também é possível acessar o seu próprio perfil clicando no ícone com o seu nome, bem como o perfil de amigos ao clicar no nome de usuário em uma publicação do feed ou diretamente através da lista de amigos. Além disso, o usuário pode realizar buscas, usar o recurso de match de produtos, adicionar novos amigos e conversar com eles através de um chat de texto, acessível ao clicar no nome do amigo na lista de amigos. O ícone de configuração também está disponível nesta tela.
+###Perfil
+<figure> 
+  <img src="https://i.imgur.com/RcBDUjW.png"
+    <figcaption> Tela de perfil </figcaption>
+</figure> 
+Tela de perfil onde o usuário pode editar o seu perfil (alterando nome, foto e banner), bem como ver e atualizar a lista de seus favoritos em formato de carrossel. O usuário também pode ver as suas publicações e tem um botão de configuração
+
+###configurações
+<figure> 
+  <img src="https://i.imgur.com/r283XfC.png">
+  <img src="https://i.imgur.com/cfkNUUg.png">
+  <img src="https://i.imgur.com/wN3BrGb.png">
+    
+    <figcaption> tela de configuraçoes</figcaption>
+</figure> 
+Tela de configuração, acessada quando o usuário clicar no ícone de configuração, oferecendo a opção de alterar os dados pessoais, notificações e configurações gerais.
+Dados pessoais: O usuário pode alterar o email, senha e número de telefone.
+Notificações: O usuário pode modificar o recebimento das notificações, onde o usuário tem à disposição botões que ele pode marcar ou desmarcar.
+Configurações gerais: Configurações relacionadas à aplicação.
+dando também a opção o usuário fazer logoff de sua conta
 
 ### Tela – Busca de produto
 
