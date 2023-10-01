@@ -6,7 +6,7 @@
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
 <figure> 
-  <img src="https://github.com/heniofontes/fluxoUsuario/blob/main/Fluxo_Usuario.png"
+  <img src="https://github.com/heniofontes/fluxoUsuario/blob/main/Fluxo_Usuario.png">
     <figcaption>Figura 1 - Tela do fluxo do usuário </figcaption>
 </figure> 
 
@@ -34,7 +34,7 @@ A tela de login é a primeira tela de acesso do usuário no site, para acessar q
 Por opção de login também é ofertado o login através de contas existentes no Google e Facebook.  
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T001.1-login.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T001.1-login.png">
     <figcaption> Tela de login </figcaption>
 </figure> 
 
@@ -45,17 +45,17 @@ Por opção de login também é ofertado o login através de contas existentes n
 A tela de recuperação de senha oferece ao usuário a recuperação de senha, após informar na tela inicial o seu username ou e-mail cadastrado, o sistema oferece duas opções de recuperação, receber o código por e-mail ou SMS em telefone cadastrado. O sistema exigirá informar o código recebido e a criação de nova senha. 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.1-recuperacaoSenha.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.1-recuperacaoSenha.png">
     <figcaption> Tela de recuperação de senha </figcaption>
 </figure> 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.2-recuperacaoSenha.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.2-recuperacaoSenha.png">
     <figcaption> Tela de recuperação de senha </figcaption>
 </figure> 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.3-recuperacaoSenha.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T002.3-recuperacaoSenha.png">
     <figcaption> Tela de recuperação de senha </figcaption>
 </figure> 
 
@@ -66,29 +66,30 @@ A tela de cadastro  fornece a um novo usuário a possibilidade de criar o seu ca
 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T003.1-cadastro.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T003.1-cadastro.png">
     <figcaption> Tela de cadastro </figcaption>
 </figure> 
-###Feed
+
+##Feed
 <figure> 
-  <img src="https://i.imgur.com/KzfX7aN.png"
+  <img src="https://i.imgur.com/KzfX7aN.png">
     <figcaption> Tela de feed </figcaption>
 </figure> 
 Tela principal da aplicação, onde o usuário pode navegar pelas últimas recomendações de seus amigos e interagir com as publicações, dando likes e escrevendo comentários. Também é possível acessar o seu próprio perfil clicando no ícone com o seu nome, bem como o perfil de amigos ao clicar no nome de usuário em uma publicação do feed ou diretamente através da lista de amigos. Além disso, o usuário pode realizar buscas, usar o recurso de match de produtos, adicionar novos amigos e conversar com eles através de um chat de texto, acessível ao clicar no nome do amigo na lista de amigos. O ícone de configuração também está disponível nesta tela.
-###Perfil
+
+##Perfil
 <figure> 
-  <img src="https://i.imgur.com/RcBDUjW.png"
+  <img src="https://i.imgur.com/RcBDUjW.png">
     <figcaption> Tela de perfil </figcaption>
 </figure> 
 Tela de perfil onde o usuário pode editar o seu perfil (alterando nome, foto e banner), bem como ver e atualizar a lista de seus favoritos em formato de carrossel. O usuário também pode ver as suas publicações e tem um botão de configuração
 
-###configurações
+##configurações
 <figure> 
   <img src="https://i.imgur.com/r283XfC.png">
   <img src="https://i.imgur.com/cfkNUUg.png">
   <img src="https://i.imgur.com/wN3BrGb.png">
-    
-    <figcaption> tela de configuraçoes</figcaption>
+  <figcaption> tela de configuraçoes</figcaption>
 </figure> 
 Tela de configuração, acessada quando o usuário clicar no ícone de configuração, oferecendo a opção de alterar os dados pessoais, notificações e configurações gerais.
 Dados pessoais: O usuário pode alterar o email, senha e número de telefone.
@@ -118,7 +119,7 @@ A tela do produto apresenta dados pertinentes e direcionados ao produto pesquisa
 
   
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.2-produto.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.2-produto.png">
    <figcaption> Tela do produto </figcaption>
 </figure> 
 
@@ -130,7 +131,7 @@ Na própria tela do produto o usuário pode clicar na nota média para realizar 
 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.5-qualificacaoProduto.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.5-qualificacaoProduto.png">
    <figcaption> Tela qualificação do produto </figcaption>
 </figure> 
 
@@ -140,7 +141,7 @@ Na própria tela do produto o usuário pode clicar na nota média para realizar 
 Na tela do produto ao clicar no campo de Elenco e produção aparece um pop up com todos os atores e participantes do produto.
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.6-producao.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.6-producao.png">
    <figcaption> Tela Elenco e produção </figcaption>
 </figure> 
 
@@ -151,7 +152,7 @@ Na tela do produto ao clicar no campo de Elenco e produção aparece um pop up c
 Neste campo o usuário tem a possibilidade de conversar e compartilhar produtos de forma privada com um seguidor.
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.3-indicacaoChat.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.3-indicacaoChat.png">
    <figcaption> Tela indicação chat </figcaption>
 </figure> 
 
@@ -161,6 +162,6 @@ Quando o usuário publicar um comentário sobre um produto ele aparecera no feed
 
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.4-comentarioFeed.png"
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/T006.4-comentarioFeed.png">
    <figcaption> Tela comentário feed </figcaption>
 </figure> 
