@@ -1,4 +1,4 @@
-# Recomendações confiáveis
+# ReComunity
 
 `CURSO ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
