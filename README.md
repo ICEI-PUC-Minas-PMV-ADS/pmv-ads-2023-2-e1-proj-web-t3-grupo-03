@@ -12,9 +12,7 @@ O sistema desenvolvido apresenta uma semelhança com as redes sociais, porém co
 
 * Felipe Montijo Machado
 * Hênio Pereira Fontes
-* Julia Eduarda V. Santos
 * Marcella Giulia Silva Siqueira
-* Vinícius Flores Ribeiro
 * Zaquel de Souza Marçal
 
 
