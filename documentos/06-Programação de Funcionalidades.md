@@ -34,18 +34,18 @@ RF-01: O site deve permitir a criação de usuários com informações básicas,
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/cadastro/cadastro.html)
 
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/blob/main/codigo-fonte/login/login.html
 
-Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
+Clicar  no link no inferior da página "Novo por aqui? Para criar novo usuário clique aqui" para ser direcionado à página de cadastro. 
 
 <hr>
 
-### Tela de Login (RF-002)
+### Tela de Login (RF-02)
 
 Responsável: Hênio 
 
@@ -59,7 +59,7 @@ Exemplo da tela de login:
 
 #### Requisito atendido
 
-RF-002: O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.
+RF-02: O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.
 
 #### Artefatos da funcionalidade
 
