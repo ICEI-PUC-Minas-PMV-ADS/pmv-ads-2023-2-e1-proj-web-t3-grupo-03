@@ -132,6 +132,6 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RNF-05 |O site deverá permitir o uso de alto contraste de cor.          | Alta |
 | RNF-06| O site deverá oferecer a possibilidade de mudar o tamanho do texto de exibição.        |Média |
 | RNF-07| O site deverá permitir usar a ampliação da tela nas versões mobile.           | Alta |
-
+| RNF-08| O site deverá apresentar ao leitor a tela do produto com a suas descrições.           | Alta |
 **Prioridade: Alta / Média / Baixa. 
 
