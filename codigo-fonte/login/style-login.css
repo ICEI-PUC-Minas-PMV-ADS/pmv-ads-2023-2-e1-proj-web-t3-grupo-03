@@ -1,0 +1,138 @@
+/* Estilização do corpo da página */
+body {
+
+    margin: 0;
+    padding: 0;
+    font-weight: 400; 
+    font-family: "Roboto", 'Times New Roman', sans-serif;
+    background-color:#324C72;   
+  }
+  
+  /* Estilização do cabeçalho */
+  header {
+    background-color: #6499E9; 
+    color: #F5F5F5; 
+    padding: 10px;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: #F5F5F5;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  /* Estilização do conteúdo principal */
+  .main {
+    .main {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto; 
+      padding: 20px;
+      background-color:#00000056;
+      box-shadow: 0 0 10,px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+/* Estilização do formulário de login */
+
+#login {
+  text-align: center;
+  margin: 0 auto; 
+  width: 350px; 
+  padding: 20px; 
+  background-color: #f5f5f5; 
+  border: 1px solid #ccc; 
+}
+
+/* Estilo para os campos de entrada no formulário */
+.caixa {
+  margin-bottom: 10px; 
+}
+
+.caixa input[type="text"],
+.caixa input[type="password"] {
+  width: 80%; 
+  padding: 10px; 
+  margin-top: 5px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  background-color: #ccc; 
+}
+
+label {
+  display: block; /* Exibir cada rótulo em uma nova linha */
+}
+
+
+
+
+
+
+  /* Estilização dos botões de login */
+
+
+  .entrar button {
+
+  background-color: #A6F6FF;
+  color: #324C72; 
+  padding: 12px 65px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+  }
+
+  .facebook button {
+
+  background-color: #1877F2;
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+
+  
+}
+  .google button {
+
+    background-color:  #db4a39;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+  }
+
+  /* Mensagens de recuperação/novo usuário */
+
+
+
+
+  /* Rodapé */
+  .rodape {
+    background-color: #6499E9;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+  }
+  
+ 
