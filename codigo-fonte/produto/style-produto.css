@@ -1,0 +1,81 @@
+.geral {
+    background-color: #CCCCCC;
+    padding: 20px;
+    border: 1px solid #ffffff; /* Cor da borda branco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: left; /* Alinhamento do texto à esquerda */
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.barra-de-pesquisa {
+    background-color: #ffffff; 
+    display: flex;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 100%; /* Defina o tamanho como 100% para ocupar todo o container */
+}
+
+.barra-de-pesquisa input[type="text"] {
+    flex: 1; /* Ocupa todo o espaço disponível no flex container */
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.barra-de-pesquisa::after {
+    content: "\1F50D"; /* Ícone de lupa */
+    font-size: 20px;
+    margin-left: auto; /* Isso alinhará o ícone à direita */
+    cursor: pointer;
+}
+
+.especificacao-produto {
+    display: flex;
+    justify-content: left;
+}
+
+.image {
+    float: left;
+}
+
+
+p#sinopse {
+    font-size: 16px; /* Ou qualquer outro valor desejado, como 14px, 18px, etc. */
+    text-align: justify;
+    font-weight: bold; /* Adiciona negrito à fonte */
+}
+
+iframe {
+    width: 100%;
+    height: 400px; /* Defina a altura desejada em pixels */
+}
+
+
+.conteiner-infosproduto {
+    float: left;
+    margin-left: 10px; /* Adicione margem à esquerda para separar a imagem do texto */
+}
+
+.comentarios {
+    display: flex;
+    flex-direction: column;
+}
+
+textarea#comentario_usuario {
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    box-sizing: border-box;
+    min-height: 100px;
+}
+
+.botao {
+    align-self: flex-start;
+    background-color: #A6F6FF;
+}
+/* Mantenha seus estilos para .image, #comentario_usuario e #publicar como estão */
