@@ -115,7 +115,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF-07| O site deve enviar notificação, parametrizável pelo usuário, por e-mail ou notificação pelo navegador (Desktop) sobre comentários nas resenhas, novos seguidores ou solicitações de seguidores.                    |Média |
 | RF-08| O site deve mostrar em casos de filmes e séries, o streaming disponível. Para os jogos, as plataformas e, se Xbox ou Playstation, se encontram disponíveis nos serviços de assinatura (Playstation Plus/Xbox Game Pass).           | Baixa  |
 |  RF-09 | O site deve permitir que o usuário faça publicação de páginas de produtos ou de suas resenhas em outras redes sociais, por meio de link do site.          | Baixa   |
-
+|  RF-10 | O site deve carregar posts no feed do usuario      | Baixa   |
+|  RF-11 | dar like  | Baixa   |
+|  RF-12 | fazer comentarios      | Baixa   |
+|  RF-13 | carregar a lista de amigos      | Baixa   |
+|  RF-14 | adcionar amigos      | Baixa   |
 
 
 **Prioridade: Alta / Média / Baixa. 
