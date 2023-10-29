@@ -116,7 +116,7 @@ Responsável: zaquel de souza
 
 botão que permite que as pubicaçoes sejam marcadas como gostei
 
-![mecanismo de busca](https://i.imgur.com/PYT6dEy.png)
+![mecanismo de busca](https://i.imgur.com/XqPMKrS.png)
 
 #### Requisito atendido
 RF-11: dar like
