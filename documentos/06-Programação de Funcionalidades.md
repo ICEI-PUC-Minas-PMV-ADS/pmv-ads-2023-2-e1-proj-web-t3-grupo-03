@@ -89,3 +89,25 @@ RF-02: O site deve permitir ao usuário logar com usuário registrado ou atravé
 <hr>
 
 
+### Mecanismo de busca (RF-03)
+
+Responsável: Hênio 
+
+Barra de pesquisa localizada no top e centralizada na tela.
+
+
+![mecanismo de busca](https://i.imgur.com/PYT6dEy.png)
+
+
+#### Requisito atendido
+
+RF-02: O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.
+
+#### Artefatos da funcionalidade
+
+●	login.html 
+
+●	style-login.css
+
+●	script-login.js
+
