@@ -91,7 +91,7 @@ RF-02: O site deve permitir ao usuário logar com usuário registrado ou atravé
 
 ### Mecanismo de busca (RF-03)
 
-Responsável: Hênio 
+Responsável: zaquel de souza 
 
 Barra de pesquisa localizada no top e centralizada na tela.
 
@@ -101,13 +101,45 @@ Barra de pesquisa localizada no top e centralizada na tela.
 
 #### Requisito atendido
 
-RF-02: O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.
+RF-03: O site deve oferecer mecanismo de busca de usuários e de produtos de entretenimento: música, filmes, séries, jogos ou livros...
 
 #### Artefatos da funcionalidade
 
-●	login.html 
+●	index.html 
 
-●	style-login.css
+●	style.css
 
-●	script-login.js
+●	main.js
 
+### botão de like (RF - 11)
+Responsável: zaquel de souza 
+
+botão que permite que as pubicaçoes sejam marcadas como gostei
+
+![mecanismo de busca](https://i.imgur.com/PYT6dEy.png)
+
+#### Requisito atendido
+RF-11: dar like
+
+●	index.html 
+
+●	style.css
+
+●	main.js
+
+### fazer comentarios (RF - 12)
+Responsável: zaquel de souza 
+
+campo de texto com botao para enviar o comentario
+
+![mecanismo de busca](https://i.imgur.com/1TbQx2E.png)
+
+#### Requisito atendido
+RF-12	fazer comentarios
+●	index.html 
+
+●	style.css
+
+●	main.js
+
+### lista de amigos
