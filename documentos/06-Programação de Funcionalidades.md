@@ -162,4 +162,3 @@ RF-05: O site deve oferecer lista de favoritos pessoais do usuário.
 ●	index.html 
 
 ●	style.css
-
