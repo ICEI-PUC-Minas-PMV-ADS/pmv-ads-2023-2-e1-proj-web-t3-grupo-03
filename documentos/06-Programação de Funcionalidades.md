@@ -143,3 +143,21 @@ RF-12	fazer comentarios
 ●	main.js
 
 ### lista de amigos
+
+### Lista de Favoritos (RF-0)
+
+Responsável: Marcella Giulia
+
+Lista de favoritos localizada na página de perfil do usuário.
+
+
+#### Requisito atendido
+
+RF-05: O site deve oferecer lista de favoritos pessoais do usuário.
+
+#### Artefatos da funcionalidade
+
+●	index.html 
+
+●	style.css
+
