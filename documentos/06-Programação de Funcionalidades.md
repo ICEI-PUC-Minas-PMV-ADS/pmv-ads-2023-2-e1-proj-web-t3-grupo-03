@@ -144,7 +144,7 @@ RF-12	fazer comentarios
 
 ### lista de amigos
 
-### Lista de Favoritos (RF-0)
+### Lista de Favoritos (RF-05)
 
 Responsável: Marcella Giulia
 
@@ -156,6 +156,27 @@ Lista de favoritos localizada na página de perfil do usuário.
 #### Requisito atendido
 
 RF-05: O site deve oferecer lista de favoritos pessoais do usuário.
+
+#### Artefatos da funcionalidade
+
+●	index.html 
+
+●	style.css
+
+### Publicações recentes no perfil do usuário (RF-15)
+
+Responsável: Marcella Giulia
+
+Públicações mais recentes devem ser mostradas no feed do usuário.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/assets/144858258/1ce50edd-1b7a-4622-a9a9-67b6390e0d09)
+
+![Uploading image.png…]()
+
+
+#### Requisito atendido
+
+RF-15: No perfil do suuário deve-se mostrar os posts mais recentes do usuário
 
 #### Artefatos da funcionalidade
 
