@@ -1,0 +1,104 @@
+/* Todo Site */
+* {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logo{
+    width: 200px;
+    height: 150px;;
+}
+
+.botao_conf{
+    width:75px;
+    height:75px;
+}
+
+
+.capa_perfil {
+    width:0%;
+    height:70%;
+}
+
+.foto_perfil {
+    width:250px; 
+    height:250px; 
+    border-radius: 100%;
+}
+
+.fav{
+    text-align: center;
+    color: #324c72;
+    background-color: #CEE9F8;
+}
+
+.fav h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.fav p {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/* Estilizar o campo scroll */
+.fav_wrapper {
+    max-height: 800px;
+    display: flex;
+    overflow-x: auto;
+}
+
+/* Estilizar a barra de scroll */
+.fav_wrapper::-webkit-scrollbar{
+    width: 0; /* PASSAR PARA ZERO */
+}
+
+/* Estilizar as imagens do scroll */
+.item img {
+    width:410px;
+    height:550px;
+    margin: 50px;
+}
+
+.comentario h2 {
+    font-weight: bold;
+}
+
+.comentario p {
+    font-size: 30px;
+    text-align: justify;
+}
+
+.conteudo {
+    background-color: #D0D9E6;
+}
+
+.conteudo p {
+    font-size: 30px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+.conteudo img {
+    width: 500px;
+    height: 700px;
+}
+
+.post1 img {
+    width:500px;
+    height:700px;
+    margin-right: 20px;
+}
+
+.post2 img {
+    width:500px;
+    height:700px;
+    margin-right: 20px;
+}
+
+.post3 img {
+    width:500px;
+    height:700px;
+    margin-right: 20px;
+}

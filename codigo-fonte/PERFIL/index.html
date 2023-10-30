@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <!-- Cabeçalho do Código -->
+    <head>
+        <!-- Meta tags obrigatórias -->
+
+            <!-- Tornar a linguagem reconhecida em qualquer lugar-->
+            <meta charset="UTF-8"/>
+
+            <!-- Tag para colocar o ícone da página (bolinha)-->
+            <link rel="icon" type="imagem de preferência/png" href="img/logo.png"/>
+
+            <!-- Título da Página-->
+            <title> Perfil - ReCommunity </title>
+
+            <!-- CSS Externo - Folha de estilos -->
+            <link rel="stylesheet" type="text/css" href="style.css"/> 
+
+            <!-- CSS Bootstrap -->
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+            <!-- JAVA SRICPT Bootstrap-->
+            <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+   
+    </head>
+
+    <!-- Corpo/Conteúdo do Código -->
+    <body>
+        <div class="container-fluid">
+
+            <div> 
+                <!-- Seção Ilustração do Perfil-->
+                <header> <!-- Cabeçalho -->
+                    <div class="row">
+                    <!-- 1 linha, Colunas:1+10+1 =12 -->
+                        
+                        <div class="col-md-1">
+                            <!-- Logo Re-Comunnity-->
+                            <img src="img/logo.png" class="logo">
+                        </div>
+
+                        <div class="col-md-10">
+                        <!-- Capa de Perfil-->
+                        <img src="img/capa_perfil.png" alt="Capa de Perfil" class="capa_perfil">
+                        </div>
+
+                        <div class="col-md-1">
+                            <!-- Botão de Configurações-->
+                            <button type="button" class="btn btn-default"> <img src="img/config_perfil.png" class="botao_conf"> </button>
+                        </div> 
+
+                    </div>
+
+                    <div class="row">
+                        <!-- 1 linha, Colunas:1+8+2+1 =12 -->
+                            <div class="col-md-1"> </div>
+
+                            <div class="col-md-8">
+                            <!-- Foto de Perfil-->
+                            <img src="img/foto_perfil.png" alt="Foto de Perfil" class="foto_perfil">
+                            </div>
+
+                            <div class="col-md-2">
+                            <!-- Botão Editar Perfil-->
+                            <button type="button" class="btn btn-danger" class="btn btn-lg"> Editar Perfil </button>
+                            </div>
+
+                            <div class="col-md-1"> </div>
+                    </div>
+                </header>
+
+                <br><br>
+
+                <!-- Seção dos Favoritos -->
+                <section>
+                
+                    <div class="row">
+                        <!-- 1 linha, Colunas:1+10+1 =12 -->
+                        <div class="col-md-1"> </div>
+
+                        <div class="col-md-10">
+                            <div class="fav">
+                            
+                            <h1 > FAVORITOS </h1>
+                            <p> Arraste para o lado para ver os favoritos mais recentes </p>
+                            <div class="fav_wrapper">
+                                <!-- Fotos de Filmes Favoritos-->
+                                <div class="item"> 
+                                    <img src="img/fav1.jpeg" alt="Shadowhunters">
+                                </div>
+
+                                <div class="item">
+                                    <img src="img/fav2.jpeg" alt="Guardiões da Galáxia">
+                                </div>
+                            
+                                <div class="item">
+                                    <img src="img/fav3.jpeg" alt="Bridgerton">
+                                </div>
+
+                                <div class="item">
+                                    <img src="img/fav4.jpeg" alt="Fate The Winx">
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/fav5.jpeg" alt="Harry Potter">
+                                </div>
+
+                                <div class="item">
+                                    <img src="img/fav6.jpeg" alt="Lucifer">
+                                </div>
+
+                                <div class="item">    
+                                    <img src="img/fav7.jpeg" alt="Fallen">
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/fav8.jpeg" alt="Greenhouse Academy">
+                                </div>
+
+                            </div> <!-- Fechamento Div Wrapper-->
+                            </div> <!-- Fechamento Div Fav-->
+                            
+                        </div> <!-- Fechamento Div Col-->
+
+                        <div class="col-md-1"> </div>
+                    
+                    </div> <!-- Fechamento Div Row-->
+                </section>
+
+                <br><br><br>
+
+                <!-- Seção dos Feed -->
+                <section>
+                    <!-- Simulação Postagens do Feed-->
+                    <div class="feed_wrapper">
+
+                        <!-- Primeiro post-->
+                        <div class="row" clas="post1">
+                            <div class="col-md-1"> </div>
+                            <div class="col-md-10"> 
+                            <div class="comentario">
+                                <!-- 1 linha, Colunas:1+10+1 =12 -->
+                                <h2> @JeniferSilva007 29/10/23 às 00:31 </h2>
+                                <br>
+                                <p> Acabei de terminar de assistir 'O Mundo Sombrio de Sabrina' na Netflix, e estou simplesmente encantado com essa série! 
+                                    A combinação de magia, mistério e drama torna cada episódio uma verdadeira montanha-russa emocional.
+                                    Os personagens são incrivelmente bem desenvolvidos, e a jornada de Sabrina Spellman é repleta de desafios e escolhas difíceis.   
+                                    A série não tem medo de explorar temas profundos, como a dualidade entre o bem e o mal, a busca pela identidade e o poder das relações humanas.  
+                                </p>
+                            </div>
+                            
+                            <br>
+
+                            <div class="conteudo">
+                                <div class="media">
+                                    <img src="img/feed1.jpeg" class="mr-5" alt="feed1" class="feed" >
+
+                                    <div class="media-body">
+                                        <h1 class="mt-0"> O Mundo Sombrio de Sabrina </h1>
+
+                                        <p> 
+                                            Em "O Mundo Sombrio de Sabrina", a jovem bruxa Sabrina Spellman enfrenta o desafio de equilibrar sua vida normal como estudante do 
+                                            ensino médio na cidade de Greendale com sua identidade sobrenatural como uma bruxa. No seu 16º aniversário, Sabrina deve decidir 
+                                            entre o mundo das bruxas, ao qual pertence por linhagem, e sua vida humana, incluindo seu namorado Harvey e amigos. Ela é constantemente 
+                                            testada por forças obscuras, incluindo seu próprio pai, Satanás, que a manipula para seguir o caminho das trevas. A série explora temas 
+                                            de identidade, poder, amizade e lealdade, enquanto Sabrina luta para encontrar seu lugar tanto no mundo mortal quanto no mundo das bruxas, 
+                                            desencadeando eventos sobrenaturais e confrontando inimigos assustadores ao longo do caminho.   
+                                        </p>
+                                    </div> <!-- Fechamento Div Mídia Body-->
+                                </div> <!-- Fechamento Div Mídia-->
+                            </div> <!-- Fechamento Conteudo -->
+
+                            </div> <!-- Fechamento Div Col-->
+
+                        </div> <!-- Fechamento Row Div Post1-->
+
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        
+                        <!-- Segundo post-->
+                        <div class="row" clas="post2">
+                            <div class="col-md-1"> </div>
+                            <div class="col-md-10"> 
+                            <div class="comentario">
+                                <!-- 1 linha, Colunas:1+10+1 =12 -->
+                                <h2> @JeniferSilva007 26/10/23 às 14:56 </h2>
+                                <br>
+                                <p> "Bridgerton" é simplesmente sensacional! Sério, eu não conseguia parar de assistir. A trama é super envolvente, e aquela vibe da 
+                                    era da Regência misturada com um monte de romance e intriga? Incrível! Sem falar nos figurinos, tudo tão lindo e detalhado, realmente te 
+                                    faz sentir naquela época. E os atores? A química entre Daphne e Simon é tipo, explosiva! E o melhor de tudo é a diversidade no elenco, 
+                                    muito legal ver uma representação mais realista da sociedade da época. Recomendo demais, não vejo a hora da próxima temporada!
+                                </p>
+                            </div>
+                            
+                            <br>
+
+                            <div class="conteudo">
+                                <div class="media">
+                                    <img src="img/feed2.jpeg" class="mr-5" alt="feed2" class="feed" >
+
+                                    <div class="media-body">
+                                        <h1 class="mt-0"> Bridgerton </h1>
+
+                                        <p> 
+                                            "Bridgerton" é uma série de época da Netflix que se passa na Regência de Londres, no início do século XIX, acompanhando 
+                                            a vida da influente família Bridgerton. A trama se concentra na busca de Daphne Bridgerton por um marido durante a temporada 
+                                            de apresentação, envolvendo-se em um falso relacionamento com o Duque de Hastings, Simon Basset. Conforme o romance fictício 
+                                            se desenvolve em algo real, a série explora os desafios do amor, casamento, escândalos e intrigas na alta sociedade, além de 
+                                            revelar segredos e dramas de outros membros da família e da sociedade londrina. "Bridgerton" é conhecida por sua trama cativante, 
+                                            personagens complexos e representação diversificada, tornando-se um sucesso tanto entre a crítica quanto o público.
+                                        </p>
+                                    </div> <!-- Fechamento Div Mídia Body-->
+                                </div> <!-- Fechamento Div Mídia-->
+                            </div> <!-- Fechamento Conteudo -->
+
+                            </div> <!-- Fechamento Div Col-->
+
+                        </div> <!-- Fechamento Row Div Post2-->
+
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        
+                        <!-- Terceiro post-->
+                        <div class="row" clas="post3">
+                            <div class="col-md-1"> </div>
+                            <div class="col-md-10"> 
+                            <div class="comentario">
+                                <!-- 1 linha, Colunas:1+10+1 =12 -->
+                                <h2> @JeniferSilva007 21/10/23 às 08:35 </h2>
+                                <br>
+                                <p> 
+                                    Cara, "Harry Potter e o Cálice de Fogo" é perfeito! Eu fiquei completamente vidrado do início ao fim. Os desafios do Torneio Tribruxo foram 
+                                    tão bem feitos, e as cenas do Baile de Inverno? Pura magia! E quando o Harry enfrenta o Voldemort, nossa, foi de arrepiar! Os atores mandaram 
+                                    muito bem, e a trilha sonora só aumentou a emoção. É aquele tipo de filme que te leva pra dentro do mundo de Hogwarts de um jeito incrível. 
+                                </p>
+                            </div>
+                            
+                            <br>
+
+                            <div class="conteudo">
+                                <div class="media">
+                                    <img src="img/feed3.jpeg" class="mr-5" alt="feed2" class="feed" >
+
+                                    <div class="media-body">
+                                        <h1 class="mt-0"> Harry Potter e o Cálice de Fogo </h1>
+
+                                        <p> 
+                                            No filme "Harry Potter e o Cálice de Fogo", o jovem bruxo Harry Potter volta para seu quarto ano em Hogwarts, a Escola de Magia e 
+                                            Bruxaria. Entretanto, este ano é especial, pois Hogwarts é escolhida para sediar o Torneio Tribruxo, um antigo e perigoso torneio 
+                                            que reúne três escolas de magia diferentes. Harry, mesmo sendo muito jovem para participar, é misteriosamente escolhido como um dos 
+                                            campeões representando Hogwarts, ao lado de outros campeões mais experientes. Conforme o torneio se desenrola, Harry descobre uma 
+                                            conspiração sombria por trás dos eventos, enfrentando desafios mortais, criaturas mágicas e segredos obscuros que o levam a confrontar 
+                                            seu maior inimigo, Lord Voldemort. Este filme da saga Harry Potter é repleto de aventura, mistério e magia, mostrando Harry e seus 
+                                            amigos enfrentando desafios mais perigosos do que nunca.
+                                        </p>
+
+                                    </div> <!-- Fechamento Div Mídia Body-->
+                                </div> <!-- Fechamento Div Mídia-->
+                            </div> <!-- Fechamento Conteudo -->
+
+                            </div> <!-- Fechamento Div Col-->
+
+                        </div> <!-- Fechamento Row Div Post3-->
+
+                    </div> <!-- Fechamento Div Feed-->
+
+                </section>
+            </div>
+
+        </div>
+    </body>
+</html>
