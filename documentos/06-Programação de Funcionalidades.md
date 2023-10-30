@@ -175,7 +175,7 @@ Públicações mais recentes devem ser mostradas no feed do usuário.
 
 #### Requisito atendido
 
-RF-15: No perfil do suuário deve-se mostrar os posts mais recentes do usuário
+RF-15: No perfil do usuário deve-se mostrar os posts mais recentes do usuário.
 
 #### Artefatos da funcionalidade
 
