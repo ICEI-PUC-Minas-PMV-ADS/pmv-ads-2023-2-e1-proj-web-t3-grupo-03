@@ -150,6 +150,8 @@ Responsável: Marcella Giulia
 
 Lista de favoritos localizada na página de perfil do usuário.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/assets/144858258/360432e0-79a2-481c-8d0d-d4380e7b7852)
+
 
 #### Requisito atendido
 
