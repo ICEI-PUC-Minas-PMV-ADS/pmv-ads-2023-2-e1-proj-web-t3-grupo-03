@@ -171,8 +171,7 @@ Públicações mais recentes devem ser mostradas no feed do usuário.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/assets/144858258/1ce50edd-1b7a-4622-a9a9-67b6390e0d09)
 
-![Uploading image.png…]()
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t3-grupo-03/assets/144858258/0d2bcee8-28fd-41e5-b833-30626440bb50)
 
 #### Requisito atendido
 
