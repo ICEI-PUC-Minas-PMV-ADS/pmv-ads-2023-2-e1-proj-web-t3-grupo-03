@@ -120,6 +120,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |  RF-12 | fazer comentarios      | Baixa   |
 |  RF-13 | carregar a lista de amigos      | Baixa   |
 |  RF-14 | adcionar amigos      | Baixa   |
+|  RF-15 | No perfil do suuário deve-se mostrar os posts mais recentes do usuario      | Baixa   |
 
 
 **Prioridade: Alta / Média / Baixa. 
