@@ -18,7 +18,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Inicial de login/td>
+  <td>CT-01: Verificar o funcionamento dos links da página Inicial de login.
   <td>
    <ul>
     <li>RF-01:	O site deve permitir a criação de usuários com informações básicas, obrigatórias e opcionais.</li>
@@ -51,7 +51,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar a validação de usuário cadastrado/td>
+  <td>CT-02: Testar a validação de usuários cadastrados.
   <td>
    <ul>
    
