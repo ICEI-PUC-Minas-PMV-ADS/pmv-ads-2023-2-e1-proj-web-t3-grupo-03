@@ -107,3 +107,72 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Hênio</td>
  </tr>
 </table>
+
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar se a caixa de pesquisa está funcionando corretamente./td>
+  <td>
+   <ul>
+   
+   <li>RF-03:	O site deve oferecer mecanismo de busca de usuários e de produtos de entretenimento: música, filmes, séries, jogos ou livros..</li>
+
+    
+   </ul>
+  </td>
+  <td>Verificar se a pesquisa está funcionando em acordo com a pesquisa e direcionamento para o produto.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acessar qualquer tela que tenha a caixa de pesquisa</li>
+    <li>Preencher os campos exigidos.</li>
+   </ol>
+   </td>
+  <td>A pesquisa deverá retornar o produto com link para sua página.</td>
+  <td>Hênio</td>
+ </tr>
+</table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-05: Verificar se está sendo permitido escrever comentários./td>
+  <td>
+   <ul>
+   
+   <li>RF-04:	OO site deve ter um banco de dados com imagem e descrição para cada produto, no qual o usuário possa classificar e escrever resenhas e opiniões sobre a recomendação...</li>
+
+    
+   </ul>
+  </td>
+  <td>Verificar se a caixa de comentários está habilitado e se é possível inserir comentário e seu retorno .</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acessar a terla de produto</li>
+    <li>Escrever o comentário e selecionar publicar.</li>
+   </ol>
+   </td>
+  <td> O comentário deverá ser publicado, mediante informação em tela ao usuário.</td>
+  <td>Hênio</td>
+ </tr>
+</table>
