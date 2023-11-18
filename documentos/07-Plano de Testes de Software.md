@@ -103,7 +103,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Preencher os campos exigidos.</li>
    </ol>
    </td>
-  <td>Deverá habilitar o login de usuário cadastrado e ser apresentado erro para usuário não cadastrado ou com informações de logins incorretas.</td>
+  <td> Deverá permitir o cadastro de novo usuário e impedir o cadastro caso haja dado indevido ao especificado.</td>
   <td>Hênio</td>
  </tr>
 </table>
