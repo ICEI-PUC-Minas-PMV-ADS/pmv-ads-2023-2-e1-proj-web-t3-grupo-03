@@ -9,7 +9,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Hênio
 
-https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.mp4
-https://github.com/heniofontes/wireframesHenio/blob/main/CT-02.jpg
+(https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.mp4)
+
   </li>
   <hr>
