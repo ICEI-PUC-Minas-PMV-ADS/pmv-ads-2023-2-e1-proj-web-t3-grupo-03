@@ -64,9 +64,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>
    <ol>
     <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página inicial de login.</li>
-    <li>Clicar nos links da página Home.</li>
+    <li>Informar o usuário e senha nos campos.</li>
+    <li>Clicar no botão "entrar".</li>
+    
    </ol>
    </td>
   <td>Deverá habilitar o login de usuário cadastrado e ser apresentado erro para usuário não cadastrado ou com informações de logins incorretas.</td>
