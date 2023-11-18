@@ -73,3 +73,37 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Hênio</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar a validação de dados na tela de cadastro./td>
+  <td>
+   <ul>
+   
+   <li>RF-01:	O site deve permitir a criação de usuários com informações básicas, obrigatórias e opcionais.</li>
+
+    
+   </ul>
+  </td>
+  <td>Verificar se os campos obrigatórios estão sendo exigidos para o cadastro. Verificar se há validação de dados conforme código js.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Clicar no link "Novo por aqui? Para criar novo usuário clique aqui"</li>
+    <li>Preencher os campos exigidos.</li>
+   </ol>
+   </td>
+  <td>Deverá habilitar o login de usuário cadastrado e ser apresentado erro para usuário não cadastrado ou com informações de logins incorretas.</td>
+  <td>Hênio</td>
+ </tr>
+</table>
