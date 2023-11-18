@@ -40,3 +40,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Hênio</td>
  </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-01: Verificar a validação de usuário cadastrado/td>
+  <td>
+   <ul>
+   
+   <li>RF-02:	O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.</li>
+
+    
+   </ul>
+  </td>
+  <td>Verificar se a validação por meio de js para o acesso a usuários cadastrados no site.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página inicial de login.</li>
+    <li>Clicar nos links da página Home.</li>
+   </ol>
+   </td>
+  <td>Deverá habilitar o login de usuário cadastrado e ser apresentado erro para usuário não cadastrado ou com informações de logins incorretas.</td>
+  <td>Hênio</td>
+ </tr>
+</table>
