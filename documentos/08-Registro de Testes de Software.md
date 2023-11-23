@@ -23,5 +23,11 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Hênio.
 
-
  
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-02.jpg">
+  <figcaption> Figura 2 - Teste de validação do usuário cadastrado 
+</figure> 
+ 
+  <p> Ao tentar logar com credenciais inválidas, o sistema impede a conexão .</p>
