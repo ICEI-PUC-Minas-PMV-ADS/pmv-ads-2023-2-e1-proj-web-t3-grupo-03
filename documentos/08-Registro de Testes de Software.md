@@ -9,9 +9,8 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Hênio
 
-[CT-01] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.mov)
+[CT-01 - Vídeo com o teste de funcionalidade] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.mov)
 
 
 
-  </li>
-  <hr>
+ 
