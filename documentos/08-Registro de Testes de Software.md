@@ -16,7 +16,12 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
   <figcaption> Figura 1 - Teste Tela de Login
 </figure> 
 
+ </li>
+  <hr>
+  
+  <li> CT-02: Testar a validação de usuários cadastrados..
 
+  Responsável: Hênio.
 
 
  
