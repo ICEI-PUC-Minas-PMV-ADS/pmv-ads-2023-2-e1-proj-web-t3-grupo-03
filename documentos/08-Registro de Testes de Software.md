@@ -75,9 +75,6 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
   Responsável: Hênio.
 
   [CT-05 - Vídeo com o teste de comentários (https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
-<figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.png>
-  <figcaption> Figura 5 - Teste da caixa de comentários
-</figure> 
+
  
   <p> O teste da caixa de comentário resultou o esperado, foi possível incluir o texto do usuário, bem como após a publicação foi gerado alerta.</p>
