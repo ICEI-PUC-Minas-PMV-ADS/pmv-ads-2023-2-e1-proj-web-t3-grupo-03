@@ -31,3 +31,20 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 </figure> 
  
   <p> Ao tentar logar com credenciais inválidas, o sistema impede a conexão .</p>
+
+
+   </li>
+  <hr>
+  
+  <li> CT-03: CT-03: Verificar a validação de dados na tela de cadastro.
+
+  Responsável: Hênio.
+
+  [CT-03 - Vídeo com a validação do cadastro] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-03.mp4) 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-03.png">
+  <figcaption> Figura 3 - Teste de validação de dados no formulário de cadastro
+</figure> 
+ 
+  <p> Foi verificado que as restrições em javascript foram funcionais na validação .</p>
