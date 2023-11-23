@@ -36,7 +36,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
    </li>
   <hr>
   
-  <li> CT-03: CT-03: Verificar a validação de dados na tela de cadastro.
+  <li> CT-03: Verificar a validação de dados na tela de cadastro.
 
   Responsável: Hênio.
 
@@ -48,3 +48,22 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 </figure> 
  
   <p> Foi verificado que as restrições em javascript foram funcionais na validação .</p>
+
+
+  
+   </li>
+  <hr>
+  
+  <li> CT-04: Verificar se a caixa de pesquisa está funcionando corretamente.
+
+  Responsável: Hênio.
+
+  [CT-04 - Vídeo com a validação do cadastro] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-04.mp4) 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-04.png">
+  <figcaption> Figura 4 - Teste da caixa de pesquisa
+</figure> 
+ 
+  <p> O teste de pesquisa funcionou corretamente, trazendo o resultado pesquisado pelo usuário e retornando para o link da página pesquisada .</p>
+
