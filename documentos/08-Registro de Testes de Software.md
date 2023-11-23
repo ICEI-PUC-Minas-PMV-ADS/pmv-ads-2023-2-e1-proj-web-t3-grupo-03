@@ -67,3 +67,18 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
  
   <p> O teste de pesquisa funcionou corretamente, trazendo o resultado pesquisado pelo usuário e retornando para o link da página pesquisada .</p>
 
+   </li>
+  <hr>
+  
+  <li> CT-05: CT-05: Verificar se está sendo permitido escrever comentários.
+
+  Responsável: Hênio.
+
+  [CT-04 - Vídeo com a validação do cadastro] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
+
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.png>
+  <figcaption> Figura 5 - Teste da caixa de comentários
+</figure> 
+ 
+  <p> O teste da caixa de comentário resultou o esperado, foi possível incluir o texto do usuário, bem como após a publicação foi gerado alerta.</p>
