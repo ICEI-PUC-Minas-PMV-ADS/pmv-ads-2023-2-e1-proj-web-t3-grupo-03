@@ -11,7 +11,11 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
 [CT-01 - Vídeo com o teste de funcionalidade] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.mov)
 
-![CT-01 - Print de tela do teste] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.png)
+<figure> 
+  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-01.png">
+  <figcaption> Figura 1 - Teste Tela de Login
+</figure> 
+
 
 
 
