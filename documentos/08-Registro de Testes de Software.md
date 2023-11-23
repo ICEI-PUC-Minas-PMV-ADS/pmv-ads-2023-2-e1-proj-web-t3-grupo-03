@@ -16,6 +16,9 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
   <figcaption> Figura 1 - Teste Tela de Login
 </figure> 
 
+ <p> Todos os links da tela de login estão direcionando corretamente para as suas páginas de destino.</p>
+
+
  </li>
   <hr>
   
@@ -70,7 +73,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
    </li>
   <hr>
   
-  <li> CT-05: CT-05: Verificar se está sendo permitido escrever comentários.
+  <li> CT-05:Verificar se está sendo permitido escrever comentários.
 
   Responsável: Hênio.
 
