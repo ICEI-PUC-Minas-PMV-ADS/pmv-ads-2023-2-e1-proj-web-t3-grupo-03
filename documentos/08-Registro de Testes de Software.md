@@ -74,7 +74,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Hênio.
 
-  [CT-04 - Vídeo com a validação do cadastro] (https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
+  [CT-05 - Vídeo com o teste de comentários (https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
 
 <figure> 
   <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.png>
