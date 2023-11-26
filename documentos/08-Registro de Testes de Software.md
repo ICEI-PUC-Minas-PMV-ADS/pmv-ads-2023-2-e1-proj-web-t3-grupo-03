@@ -87,34 +87,34 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
   <p> O teste da caixa de comentário resultou o esperado, foi possível incluir o texto do usuário, bem como após a publicação foi gerado alerta.</p>
 
 
-- CT-06: Verificar se está sendo permitido realizar buscas.
+### CT-06: Verificar se está sendo permitido realizar buscas.
 
   Responsável: zaquel.
 
 <video width="320" height="240" controls>
-  <source src="./videos/pesquisa.mp4" type="video/mp4">
+  <source src="videos/pesquisa.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
 o teste da barra de pesquisa resultou o esperado.
 
-- CT-07: Verificar se está sendo permitido dar like
+### CT-07: Verificar se está sendo permitido dar like
 
   Responsável: zaquel.
 
 <video width="320" height="240" controls>
-  <source src="./videos/gostei.mp4" type="video/mp4">
+  <source src="videos/gostei.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
 o botao para like em posts esta funcionando como esperado
 
-- CT-08: Verificar se está sendo comentario em posts.
+### CT-08: Verificar se está sendo comentario em posts.
 
   Responsável: zaquel.
 
 <video width="320" height="240" controls>
-  <source src="./videos/cometario.mp4" type="video/mp4">
+  <source src="videos/cometario.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 o campo de cometario e botao cometar estao funcionando corretamente
