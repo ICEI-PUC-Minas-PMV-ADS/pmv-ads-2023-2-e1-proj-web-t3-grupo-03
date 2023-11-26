@@ -91,7 +91,10 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: zaquel.
 
-[![Vídeo de Demonstração](videos/pesquisa.mp4)](videos/pesquisa.mp4)
+<video width="320" height="240" controls>
+  <source src="./videos/pesquisa.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 o teste da barra de pesquisa resultou o esperado.
 
@@ -99,7 +102,10 @@ o teste da barra de pesquisa resultou o esperado.
 
   Responsável: zaquel.
 
-[![Vídeo de Demonstração](videos/gostei.mp4)](videos/gostei.mp4)
+<video width="320" height="240" controls>
+  <source src="./videos/gostei.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 o botao para like em posts esta funcionando como esperado
 
@@ -107,6 +113,8 @@ o botao para like em posts esta funcionando como esperado
 
   Responsável: zaquel.
 
-[![Vídeo de Demonstração](videos/cometario.mp4)](videos/cometario.mp4)
-
+<video width="320" height="240" controls>
+  <source src="./videos/cometario.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 o campo de cometario e botao cometar estao funcionando corretamente
