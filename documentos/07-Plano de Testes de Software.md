@@ -177,5 +177,114 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-06: Verificar se está sendo permitido realizar buscas.<td>
+   <ul>
+   <li>RF-03: O site deve oferecer mecanismo de busca de usuários e de produtos de entretenimento: música, filmes, séries, jogos ou livros.</li>
+   </ul>
+  </td>
+  <td>Verificar se e possivel realizar pesquisa</td>
+  <td>
+   <ol>
+    <li>na tela de feed</li>
+    <li>digitar o item a pesquisar</li>
+    <li>clicar no icone de lupa</li>
+   </ol>
+   </td>
+  <td>devera aparecer itens que casa com a entrada da pesquisa</td>
+  <td>zaquel</td>
+ </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-07: Verificar se está sendo permitido dar like nas .<td>
+   <ul>
+   <li>RF-11: dar like.</li>
+   </ul>
+  </td>
+  <td>Verificar se e possivel dar like em posts</td>
+  <td>
+   <ol>
+    <li>na tela de feed</li>
+    <li>no post que desejar</li>
+    <li>clicar no botao de like</li>
+   </ol>
+   </td>
+  <td>post devera ser barcado como gostei</td>
+  <td>zaquel</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-08: Verificar se está sendo comentario em posts.<td>
+   <ul>
+   <li>RF-12: fazer comentarios.</li>
+   </ul>
+  </td>
+  <td>Verificar se e possivel fazer comentarios em posts</td>
+  <td>
+   <ol>
+    <li>na tela de feed</li>
+    <li>no post que desejar</li>
+    <li>escrever um comenraio</li>
+    <li>clikcar no botao de comentar</li>
+   </ol>
+   </td>
+  <td>comentario devera ser vinculado aquele post</td>
+  <td>zaquel</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-09: Verificar se os posts entao sendo carregados.<td>
+   <ul>
+   <li>RF-12: O site deve carregar posts no feed do usuario.</li>
+   </ul>
+  </td>
+  <td>verificar se os posts estao carregando no feed</td>
+  <td>
+   <ol>
+    <li>na tela de feed</li>
+    <li>veficar se a posts carregados</li>
+   </ol>
+   </td>
+  <td>os posts deveram aparecer na tela de feed</td>
+  <td>zaquel</td>
+ </tr>
+</table>
