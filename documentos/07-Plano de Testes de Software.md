@@ -203,17 +203,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>devera aparecer itens que casa com a entrada da pesquisa</td>
   <td>zaquel</td>
  </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
  <tr>
   <td>CT-07: Verificar se está sendo permitido dar like nas .<td>
    <ul>
@@ -232,16 +221,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>zaquel</td>
  </tr>
 </table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
  <tr>
   <td>CT-08: Verificar se está sendo comentario em posts.<td>
    <ul>
@@ -260,21 +239,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>comentario devera ser vinculado aquele post</td>
   <td>zaquel</td>
  </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
  <tr>
   <td>CT-09: Verificar se os posts entao sendo carregados.<td>
    <ul>
-   <li>RF-12: O site deve carregar posts no feed do usuario.</li>
+   <li>RF-10: O site deve carregar posts no feed do usuario.</li>
    </ul>
   </td>
   <td>verificar se os posts estao carregando no feed</td>
