@@ -220,7 +220,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>post devera ser barcado como gostei</td>
   <td>zaquel</td>
  </tr>
-</table>
  <tr>
   <td>CT-08: Verificar se está sendo comentario em posts.<td>
    <ul>
