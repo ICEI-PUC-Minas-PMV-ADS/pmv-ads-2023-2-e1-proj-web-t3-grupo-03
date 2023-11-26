@@ -90,11 +90,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 ### CT-06: Verificar se está sendo permitido realizar buscas.
 
   Responsável: zaquel.
-
-<video width="320" height="240" controls>
-  <source src="videos/pesquisa.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+[![Vídeo de Demonstração](https://img.youtube.com/vi/wzwo65xh9Yk)](https://www.youtube.com/watch?v=wzwo65xh9Yk)
 
 o teste da barra de pesquisa resultou o esperado.
 
@@ -102,10 +98,7 @@ o teste da barra de pesquisa resultou o esperado.
 
   Responsável: zaquel.
 
-<video width="320" height="240" controls>
-  <source src="videos/gostei.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+[![Vídeo de Demonstração](https://img.youtube.com/vi/GZb4EFA7XOc)](https://www.youtube.com/watch?v=GZb4EFA7XOc)
 
 o botao para like em posts esta funcionando como esperado
 
@@ -113,8 +106,5 @@ o botao para like em posts esta funcionando como esperado
 
   Responsável: zaquel.
 
-<video width="320" height="240" controls>
-  <source src="videos/cometario.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+[![Vídeo de Demonstração](https://img.youtube.com/vi/LPgIEPvo1TE)](https://www.youtube.com/watch?v=LPgIEPvo1TE)
 o campo de cometario e botao cometar estao funcionando corretamente
