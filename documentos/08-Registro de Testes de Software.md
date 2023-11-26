@@ -77,7 +77,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Hênio.
 
-  [CT-05 - Vídeo com o teste de comentários (https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
+  [CT-05 - Vídeo com o teste de comentários](https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.mp4) 
 
 <figure> 
   <img src="https://github.com/heniofontes/wireframesHenio/blob/main/CT-05.png">
@@ -85,3 +85,28 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 </figure> 
  
   <p> O teste da caixa de comentário resultou o esperado, foi possível incluir o texto do usuário, bem como após a publicação foi gerado alerta.</p>
+
+
+- CT-06: Verificar se está sendo permitido realizar buscas.
+
+  Responsável: zaquel.
+
+[![Vídeo de Demonstração](videos/pesquisa.mp4)](videos/pesquisa.mp4)
+
+o teste da barra de pesquisa resultou o esperado.
+
+- CT-07: Verificar se está sendo permitido dar like
+
+  Responsável: zaquel.
+
+[![Vídeo de Demonstração](videos/gostei.mp4)](videos/gostei.mp4)
+
+o botao para like em posts esta funcionando como esperado
+
+- CT-08: Verificar se está sendo comentario em posts.
+
+  Responsável: zaquel.
+
+[![Vídeo de Demonstração](videos/cometario.mp4)](videos/cometario.mp4)
+
+o campo de cometario e botao cometar estao funcionando corretamente

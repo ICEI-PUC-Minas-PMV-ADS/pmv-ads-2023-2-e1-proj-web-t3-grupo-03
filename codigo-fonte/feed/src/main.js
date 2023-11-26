@@ -35,3 +35,7 @@ for (let i = 0; i < likeBTN.length; i++) {
     });
 }
 
+const btnPesquisa = document.getElementById('btnPesquisa');
+btnPesquisa.addEventListener('click', ()=>{
+    alert("pesquisa registrada");
+})
