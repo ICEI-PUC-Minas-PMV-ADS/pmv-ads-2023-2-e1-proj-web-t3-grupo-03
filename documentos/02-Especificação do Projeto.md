@@ -108,19 +108,18 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |-------|---------------------------------|----|
 | RF-01 | Realizar Cadastro de Usuário     | Alta  |
 | RF-02 | Fazer Login| Alta  |
-| RF-03 | Feed de Atividade | Média |
-| RF-04 | Interatividade (Dar “like” e fazer comentários em posts) |Média  |
-| RF-05 | Compartilhamento (em outras redes)| Média  |
-| RF-06 | Recomendações/Posts| Alta |
+| RF-03 | Carregar feed de atividades | Média |
+| RF-04 | Interatividade com post |Média  |
+| RF-05 | Compartilhar em outras redes| Média  |
+| RF-06 | Faze Recomendações/Posts| Alta |
 | RF-07 | Adicionar Amigos  |Média |
-| RF-08 | Pesquisa de Usuários e Conteúdos| Baixa  |
-| RF-09 | Configurações do Site | Baixa   |
-| RF-10 | Edição de Dados(nome, foto, banner e senha)| Baixa   |
-| RF-11 | Exploração de Conteúdo| Baixa   |
-| RF-12 | Página de Perfil do Usuário | Baixa   |
-| RF-12.1 | Botão de Edição de Dados | Baixa   |
-| RF-12.1 | Carrossel de Favoritos | Baixa   |
-| RF-12.1 | Posts Feitos | Baixa   |
+| RF-08 | Pesquisar Usuários| Baixa  |
+| RF-09 | Pesquisar Conteúdos| baixa|
+| RF-10 | Exploração de Conteúdo| Baixa   |
+| RF-11 | Carregar Perfil do Usuário | Baixa   |
+| RF-11.1 | Edição de Dados do usuario| Baixa   |
+| RF-11.2 | Carrossel de Favoritos | Baixa   |
+| RF-11.3 | Posts Feitos | Baixa   |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
@@ -130,10 +129,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RNF-01 | Desempenho: Garantir uma resposta rápida ao cadastrar usuários, efetuar login e carregar o feed de atividade. | Alta  |
-|RNF-02 | Usabilidade: Criar uma interface intuitiva para facilitar a interação do usuário com as funcionalidades da aplicação. | Alta|
+| RNF-02 | Usabilidade: Criar uma interface intuitiva para facilitar a interação do usuário com as funcionalidades da aplicação. | Alta|
 | RNF-03 | Compatibilidade: Assegurar que a aplicação seja compatível com diferentes dispositivos e navegadores para uma experiência consistente.  |Alta |
-|  RNF-04  | Manutenibilidade: Desenvolver o código de forma modular e documentada para facilitar futuras atualizações e manutenções. | Média  |
+| RNF-04  | Manutenibilidade: Desenvolver o código de forma modular e documentada para facilitar futuras atualizações e manutenções. | Média  |
 | RNF-05 | Escalabilidade: Projetar o sistema para lidar com um aumento no número de usuários, posts e interações sem comprometer o desempenho. | Alta |
 | RNF-06| Confiabilidade: Garantir que a aplicação seja estável e confiável, minimizando falhas e interrupções.     |Média |
+| RNF-09 | Dar “like” e fazer comentários em posts | media|
 **Prioridade: Alta / Média / Baixa. 
 
