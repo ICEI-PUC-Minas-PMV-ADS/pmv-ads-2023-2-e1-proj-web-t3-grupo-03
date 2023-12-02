@@ -106,22 +106,21 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |O site deve permitir a criação de usuários com informações básicas, obrigatórias e opcionais.     | Alta  |
-| RF-02 |O site deve permitir ao usuário logar com usuário registrado ou através de suas contas do Facebook e do Google.        | Alta  |
- |RF-03 | O site deve oferecer mecanismo de busca de usuários e de produtos de entretenimento: música, filmes, séries, jogos ou livros.                   | Média |
-| RF-04 | O site deve ter um banco de dados com imagem e descrição para cada produto, no qual o usuário possa classificar e escrever resenhas e opiniões sobre a recomendação.                    |Média  |
-|  RF-05  |O site deve oferecer lista de favoritos pessoal do usuário.                  | Média  |
-| RF-06 |O site deve permitir que o usuário siga outros usuários, podendo ter o perfil aberto ou perfil privado, neste último caso o usuário deveria aprovar o seguidor.              | Alta |
-| RF-07| O site deve enviar notificação, parametrizável pelo usuário, por e-mail ou notificação pelo navegador (Desktop) sobre comentários nas resenhas, novos seguidores ou solicitações de seguidores.                    |Média |
-| RF-08| O site deve mostrar em casos de filmes e séries, o streaming disponível. Para os jogos, as plataformas e, se Xbox ou Playstation, se encontram disponíveis nos serviços de assinatura (Playstation Plus/Xbox Game Pass).           | Baixa  |
-|  RF-09 | O site deve permitir que o usuário faça publicação de páginas de produtos ou de suas resenhas em outras redes sociais, por meio de link do site.          | Baixa   |
-|  RF-10 | O site deve carregar posts no feed do usuario      | Baixa   |
-|  RF-11 | dar like  | Baixa   |
-|  RF-12 | fazer comentarios      | Baixa   |
-|  RF-13 | carregar a lista de amigos      | Baixa   |
-|  RF-15 | No perfil do suuário deve-se mostrar os posts mais recentes do usuario      | Baixa   |
-|  RF-16 | O site deve permitir a recuperação de senha para usuários cadastrados.      | Baixa   |
-
+| RF-01 | Realizar Cadastro de Usuário     | Alta  |
+| RF-02 | Fazer Login| Alta  |
+| RF-03 | Feed de Atividade | Média |
+| RF-04 | Interatividade (Dar “like” e fazer comentários em posts) |Média  |
+| RF-05 | Compartilhamento (em outras redes)| Média  |
+| RF-06 | Recomendações/Posts| Alta |
+| RF-07 | Adicionar Amigos  |Média |
+| RF-08 | Pesquisa de Usuários e Conteúdos| Baixa  |
+| RF-09 | Configurações do Site | Baixa   |
+| RF-10 | Edição de Dados(nome, foto, banner e senha)| Baixa   |
+| RF-11 | Exploração de Conteúdo| Baixa   |
+| RF-12 | Página de Perfil do Usuário | Baixa   |
+| RF-12.1 | Botão de Edição de Dados | Baixa   |
+| RF-12.1 | Carrossel de Favoritos | Baixa   |
+| RF-12.1 | Posts Feitos | Baixa   |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
@@ -130,13 +129,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RNF-01 |O site deve operar de forma responsiva e rápida nos principais navegadores, em desktop e em suas versões mobile. | Alta  |
- |RNF-02 | O site deve proteger os dados e garantir a segurança aos usuários, fazer gestão de cookies adequada à LGPD e usar o protocolo TLS/SSL (HTTPS).           | Alta|
-| RNF-03 | O site deve ser fácil de usar, intuitivo e rápido para o usuário.    |Alta |
-|  RNF-04  | O site deverá apresentar leitor de tela e descrição de imagens para uso por pessoas com deficiências visuais.           | Média  |
-| RNF-05 |O site deverá permitir o uso de alto contraste de cor.          | Alta |
-| RNF-06| O site deverá oferecer a possibilidade de mudar o tamanho do texto de exibição.        |Média |
-| RNF-07| O site deverá permitir usar a ampliação da tela nas versões mobile.           | Alta |
-| RNF-08| O site deverá apresentar ao leitor a tela do produto com a suas descrições.           | Alta |
+| RNF-01 | Desempenho: Garantir uma resposta rápida ao cadastrar usuários, efetuar login e carregar o feed de atividade. | Alta  |
+|RNF-02 | Usabilidade: Criar uma interface intuitiva para facilitar a interação do usuário com as funcionalidades da aplicação. | Alta|
+| RNF-03 | Compatibilidade: Assegurar que a aplicação seja compatível com diferentes dispositivos e navegadores para uma experiência consistente.  |Alta |
+|  RNF-04  | Manutenibilidade: Desenvolver o código de forma modular e documentada para facilitar futuras atualizações e manutenções. | Média  |
+| RNF-05 | Escalabilidade: Projetar o sistema para lidar com um aumento no número de usuários, posts e interações sem comprometer o desempenho. | Alta |
+| RNF-06| Confiabilidade: Garantir que a aplicação seja estável e confiável, minimizando falhas e interrupções.     |Média |
 **Prioridade: Alta / Média / Baixa. 
 
