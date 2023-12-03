@@ -31,23 +31,6 @@ Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados a
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/Trello.png"
-    <figcaption>Figura 1   - Tela do Trello de gestão do processo </figcaption>
-</figure> 
-
-### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
-
-<ul>
-  <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
-</ul>
-
-<figure> 
   <img src="https://i.imgur.com/mcgMErg.png"
     <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
