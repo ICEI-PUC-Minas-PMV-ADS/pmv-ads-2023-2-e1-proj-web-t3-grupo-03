@@ -48,7 +48,7 @@ Seguindo a metodologia do scrum, a equipe foi dividida nos papeis relacionados a
 </ul>
 
 <figure> 
-  <img src="https://github.com/heniofontes/wireframesHenio/blob/main/etiquetas.png"
+  <img src="https://i.imgur.com/mcgMErg.png"
     <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
