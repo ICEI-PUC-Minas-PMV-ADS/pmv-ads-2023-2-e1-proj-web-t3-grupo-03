@@ -6,15 +6,30 @@ let btnEntrar = document.getElementById('btnEntrar');
 let usuario = document.getElementById('usuario');
 let passWord = document.getElementById('passWord');
 
-const validate = (e) => { 
-    for(let i=0; i<dataUsers.length; i++){
-        if(dataUsers[i].Name == usuario.value && dataUsers[i].Senha == passWord.value){
-            alert(`usuario: ${usuario.value} senha: ${passWord.value}`)
-        }
-        else if(dataUsers[i].Name != usuario.value && dataUsers[i].Senha != passWord.value){
-            alert(`usuario: ${usuario.value} senha: ${passWord.value} nao encontrados no servidor`)
-            e.preventDefault();
-        }
+
+const validate = (e) => {
+    let loginUser = JSON.parse(localStorage.getItem(usuario.value));
+    //verifica se a key e nula
+    if (!loginUser) {
+        e.preventDefault();
+        alert('Usuário não encontrado');
+        return;
     }
-}
-btnEntrar.addEventListener('click', validate);
+        if (usuario.value == "" || passWord.value == "") {
+            e.preventDefault();
+            alert('os compos login e senha devem ser preenchudos');
+            if (usuario.value == "") {
+                usuario.focus();
+            }
+            else {
+                passWord.focus();
+            }
+            return;
+        }
+        if (loginUser.name != usuario.value && loginUser.senha != passWord.value) {
+            e.preventDefault();
+            alert('login ou senha incorretos');
+        }
+
+    }
+    btnEntrar.addEventListener('click', validate);

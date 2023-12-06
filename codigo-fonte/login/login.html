@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ReCommunity - Login</title>
     <script type="module" src="loginValidate.js" defer></script>
-    <script type="module" src="cadastro.js" defer></script>
+    <script type="module" src="validacoes.js" defer></script>
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         <div class="imgUser">
             <img src="" alt="foto do usuario">
         </div>
-        <form action="">
+        <form action="../feed/index.html">
             <label for="usuario">usuario: </label>
             <input type="text" id="usuario" name="usuario">
             <label for="passWord">Senha: </label>
@@ -33,12 +33,12 @@
                 <!--bota de fechar o modal-->
             </div>
             <form action="">
-                <input type="file" src="" accept="image/*">
+                <input type="file" src="" accept="image/*" id="imageFile">
                 <input required type="text" id="userName" name="userName" placeholder="Nome">
-                <input required type="text" id="userEmail" name="userEmail" placeholder="Email">
-                <input required type="text" id="userPassWord" name="userPassWord" placeholder="Senha">
-                <input required type="text" id="passConfimation" name="passConfimation" placeholder="confime a senha">
-                <input required type="submit" value="Cadastrar">
+                <input required type="email" id="userEmail" name="userEmail" placeholder="Email">
+                <input required type="password" id="userPassWord" name="userPassWord" placeholder="Senha">
+               <input required type="password" id="passConfimation" name="passConfimation" placeholder="confime a senha">
+                <input required type="submit" value="Cadastrar" id="btnCadastro">
 
             </form>
         </div>
