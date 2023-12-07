@@ -4,124 +4,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/styles.css">
-    <script src="src/main.js" defer></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
-    rel="stylesheet">
+    <script type="module" src="./src/main.js" defer></script>
     <title>ReComunity - feed</title>
 </head>
 
 <body>
 
     <header>
-        <div id="container-logo">
-            <img src="imgs/icons/app.logo.jpeg" alt="logo ReComunity">
+        <div class="logo">
+            <h1><a href="./index.html">ReComunity</a></h1>
         </div>
-        <div id="user-profile">
-            <img src="imgs/usersPhotos/user.jpg" alt="user name">
-        </div>
-        <div id="config-btn">
-            <a href="/configs/configuracoes.html" target="_blank"><img src="imgs/icons/config icon.png"
-                    alt="icone de configuração"></a>
+        <div class="userConteiner">
+            <div class="userPhoto">
+                <a href=""><img src="" alt="foto de perfil" srcset=""></a>
+            </div>
+            <div id="conteinerOptions">
+                <button id="dropBtn">></button>
+                <button id="btnEdit">Editar Dados</button>
+                <button id="logout">Sair</button>
+            </div>
         </div>
     </header>
+
     <main>
-        <div class="bg">
-            <div id="barra-pesquisa">
-                <input type="text" id="txtBusca" placeholder="Buscar">
-                <button id="btnPesquisa"><img src="imgs/icons/lupa.png" alt="icone de pesquisa"></button>
+        <section id="potsSection">
+            <div class="contentInformation">
+                <div>
+                    <div id="searchConteiner">
+                        <input type="search" placeholder="dark souls" id="searchTopost">
+                        <button id ="btnSearchTopost" type="submit"><img src="../icons/searchIcon.svg" alt="icone de pesquisa" srcset=""></button>
+                    </div>
+                    <img id="imgDoConteudoPesquisado" src="#" alt="imagem do conteudo pesquisado" srcset="">
+                </div>
             </div>
-            <article class="user-post">
-                <p>@vitinDuCorte as 00:23</p>
-                <p>Esse filme é muito louco. Só de pensar que esses garotos passaram por isso e que é uma história real.
-                </p>
-                <div class="conteiner-filme">
-                    <img src="imgs/usersPhotos/caoesDeGuerra.png" alt="banner de interstellar">
-                    <div class="detalhes-filmes">
-                        <h3>Cães de guerra<img class="star-icon" src="#" alt="avaliação" /></h3>
-                        <p>EUA | 09/08/2016 | 114 min.</p>
-                        <div class="tags">
-                            <span>Biografia</span>
-                            <span>crime</span>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="container-comentaraio">
-                    <textarea name="" id="" cols="30" rows="5"></textarea>
-                    <button class="comentar-btn">comentar</button>
-                </div>
-                <button class="like-btn">like</button>
-            </article>
-            <article class="user-post">
-                <p>@vitinDuCorte as 00:23</p>
-                <p>Esse filme é muito louco. Só de pensar que esses garotos passaram por isso e que é uma história real.
-                </p>
-                <div class="conteiner-filme">
-                    <img src="imgs/usersPhotos/caoesDeGuerra.png" alt="banner de interstellar">
-                    <div class="detalhes-filmes">
-                        <h3>Cães de guerra<img class="star-icon" src="#" alt="avaliação" /></h3>
-                        <p>EUA | 09/08/2016 | 114 min.</p>
-                        <div class="tags">
-                            <span>Biografia</span>
-                            <span>crime</span>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="container-comentaraio">
-                    <textarea name="" id="" cols="30" rows="5"></textarea>
-                    <button class="comentar-btn">comentar</button>
-                </div>
-                <button class="like-btn">like</button>
-            </article>
-            <article class="user-post">
-                <p>@vitinDuCorte as 00:23</p>
-                <p>Esse filme é muito louco. Só de pensar que esses garotos passaram por isso e que é uma história real.
-                </p>
-                <div class="conteiner-filme">
-                    <img src="imgs/usersPhotos/caoesDeGuerra.png" alt="banner de interstellar">
-                    <div class="detalhes-filmes">
-                        <h3>Cães de guerra<img class="star-icon" src="#" alt="avaliação" /></h3>
-                        <p>EUA | 09/08/2016 | 114 min.</p>
-                        <div class="tags">
-                            <span>Biografia</span>
-                            <span>crime</span>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="container-comentaraio">
-                    <textarea name="" id="" cols="30" rows="5"></textarea>
-                    <button class="comentar-btn">comentar</button>
-                </div>
-                <button class="like-btn">like</button>
-            </article>
-
-        </div>
+            <div class="">
+                <textarea name="" id="userText" cols="30" rows="10"></textarea>
+                <button id="bntPublicar" type="submit">publicar</button>
+            </div>
+        </section>
     </main>
-    <aside id="friend-list">
-        <div class="wraper-btn-aternar">
-            <!--
-                add icone de minimizar/ expandir
-            -->
-            <button id="alternar-friendsList">Minimizar/Expandir</button>
-        </div>
-        <h3>amigos</h3>
-        <ul class="lista-de-amigos" id="amigos">
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>marcos dos santos</span></li>
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>vitinDuCorte</span></li>
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>pedro lucindo</span></li>
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>pauloGOD</span></li>
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>pabloDSM</span></li>
-            <li><img src="imgs/usersPhotos/marcao.jpg" alt="foto do usuario"><span>DJnogueira</span></li>
-        </ul>
-    </aside>
+
+
 </body>
 
 </html>

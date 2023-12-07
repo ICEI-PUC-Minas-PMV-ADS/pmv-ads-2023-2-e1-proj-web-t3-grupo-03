@@ -1,3 +1,4 @@
+import { sessaAtual } from './criaSessao.js';
 import dataUsers from './users.json' assert {type: "json"};
 
 
@@ -9,7 +10,6 @@ let passWord = document.getElementById('passWord');
 
 const validate = (e) => {
     let loginUser = JSON.parse(localStorage.getItem(usuario.value));
-    //verifica se a key e nula
     if (!loginUser) {
         e.preventDefault();
         alert('Usuário não encontrado');
@@ -32,4 +32,4 @@ const validate = (e) => {
         }
 
     }
-    btnEntrar.addEventListener('click', validate);
+    btnEntrar.addEventListener('click', validate, sessaAtual());

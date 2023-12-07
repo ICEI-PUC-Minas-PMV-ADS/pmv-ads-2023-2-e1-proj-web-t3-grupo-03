@@ -114,11 +114,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF-06 | Adicionar Amigos  |Média |
 | RF-07 | Pesquisar Usuários| Baixa  |
 | RF-08 | Pesquisar Conteúdos| baixa|
-| RF-09 | Exploração de Conteúdo| Baixa   |
-| RF-10 | Carregar Perfil do Usuário | Baixa   |
-| RF-10.1 | Edição de Dados do usuario| Baixa   |
-| RF-10.2 | Carrossel de Favoritos | Baixa   |
-| RF-10.3 | Posts Feitos | Baixa   |
+| RF-09 | Carregar Perfil do Usuário | Baixa   |
+| RF-09.1 | Edição de Dados do usuario| Baixa   |
+| RF-09.2 | Carrossel de Favoritos | Baixa   |
+| RF-09.3 | Posts Feitos | Baixa   |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
