@@ -2,13 +2,175 @@
     {
         "Name": "zaquel",
         "Email": "zaquel@hotmail.com",
-        "UserImg": "caminho da img",
+        "UserImg": "https://placekitten.com/200/300",
         "Senha": "123@123"
     },
     {
         "Name": "fernanda",
         "Email": "fernanda@hotmail.com",
-        "UserImg": "caminho da img",
+        "UserImg": "https://placebear.com/200/300",
         "Senha": "123@123"
+    },
+    {
+        "Name": "john_doe",
+        "Email": "john_doe@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/1.jpg",
+        "Senha": "password123"
+    },
+    {
+        "Name": "alice_smith",
+        "Email": "alice.smith@yahoo.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/1.jpg",
+        "Senha": "qwerty456"
+    },
+    {
+        "Name": "sam_jackson",
+        "Email": "sam.jackson@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/2.jpg",
+        "Senha": "abc@123"
+    },
+    {
+        "Name": "laura_white",
+        "Email": "laura.white@hotmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/2.jpg",
+        "Senha": "pass1234"
+    },
+    {
+        "Name": "alex_martin",
+        "Email": "alex.martin@gmail.com",
+        "UserImg": "https://placekitten.com/201/300",
+        "Senha": "userpass"
+    },
+    {
+        "Name": "sara_jones",
+        "Email": "sara.jones@yahoo.com",
+        "UserImg": "https://placebear.com/201/301",
+        "Senha": "sara@2023"
+    },
+    {
+        "Name": "michael_brown",
+        "Email": "michael.brown@gmail.com",
+        "UserImg": "https://placekitten.com/202/300",
+        "Senha": "brownie"
+    },
+    {
+        "Name": "emma_davis",
+        "Email": "emma.davis@hotmail.com",
+        "UserImg": "https://placebear.com/202/301",
+        "Senha": "emma123"
+    },
+    {
+        "Name": "adam_wilson",
+        "Email": "adam.wilson@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/3.jpg",
+        "Senha": "wilson@123"
+    },
+    {
+        "Name": "olivia_smith",
+        "Email": "olivia.smith@yahoo.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/3.jpg",
+        "Senha": "olivia456"
+    },
+    {
+        "Name": "nathan_jones",
+        "Email": "nathan.jones@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/4.jpg",
+        "Senha": "passnathan"
+    },
+    {
+        "Name": "ava_martin",
+        "Email": "ava.martin@hotmail.com",
+        "UserImg": "https://placekitten.com/203/300",
+        "Senha": "avamartin2023"
+    },
+    {
+        "Name": "VitinDuCorte",
+        "Email": "vitin.du.corte@gmail.com",
+        "UserImg": "https://placebear.com/203/301",
+        "Senha": "duCorte@123"
+    },
+    {
+        "Name": "SonicFan123",
+        "Email": "sonic.fan123@yahoo.com",
+        "UserImg": "https://placekitten.com/204/300",
+        "Senha": "gottagofast"
+    },
+    {
+        "Name": "PixelMaster",
+        "Email": "pixel.master@gmail.com",
+        "UserImg": "https://placebear.com/204/301",
+        "Senha": "pixelart456"
+    },
+    {
+        "Name": "NinjaWarrior",
+        "Email": "ninja.warrior@hotmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/5.jpg",
+        "Senha": "silentstrike"
+    },
+    {
+        "Name": "StarGazer",
+        "Email": "star.gazer@yahoo.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/4.jpg",
+        "Senha": "cosmic123"
+    },
+    {
+        "Name": "TechGeek42",
+        "Email": "tech.geek42@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/6.jpg",
+        "Senha": "code&coffee"
+    },
+    {
+        "Name": "GuitarHero92",
+        "Email": "guitar.hero92@hotmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/7.jpg",
+        "Senha": "rockon@92"
+    },
+    {
+        "Name": "MysterySolver",
+        "Email": "mystery.solver@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/5.jpg",
+        "Senha": "detective123"
+    },
+    {
+        "Name": "ThunderStriker",
+        "Email": "thunder.striker@yahoo.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/8.jpg",
+        "Senha": "thunder123"
+    },
+    {
+        "Name": "DanceMachine",
+        "Email": "dance.machine@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/6.jpg",
+        "Senha": "groovy@2023"
+    },
+    {
+        "Name": "AdventureSeeker",
+        "Email": "adventure.seeker@hotmail.com",
+        "UserImg": "https://placekitten.com/205/300",
+        "Senha": "explore456"
+    },
+    {
+        "Name": "DragonRider",
+        "Email": "dragon.rider@yahoo.com",
+        "UserImg": "https://placebear.com/205/301",
+        "Senha": "fire&flight"
+    },
+    {
+        "Name": "SunnySmiles",
+        "Email": "sunny.smiles@gmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/women/7.jpg",
+        "Senha": "sunshine123"
+    },
+    {
+        "Name": "MidnightHaze",
+        "Email": "midnight.haze@hotmail.com",
+        "UserImg": "https://randomuser.me/api/portraits/men/9.jpg",
+        "Senha": "moonlight456"
+    },
+    {
+        "Name": "CodeNinja",
+        "Email": "code.ninja@gmail.com",
+        "UserImg": "https://placekitten.com/206/300",
+        "Senha": "codewarrior"
     }
 ]
