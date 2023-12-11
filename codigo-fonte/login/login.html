@@ -5,8 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ReCommunity - Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./styles/styles.css">
     <script type="module" src="loginValidate.js" defer></script>
     <script type="module" src="validacoes.js" defer></script>
+    <script type="module" src="main.js" defer></script>
 </head>
 
 <body>
@@ -16,32 +22,50 @@
         </div>
     </header>
     <Main>
-
-        <div class="imgUser">
-            <img src="" alt="foto do usuario">
-        </div>
-        <form action="../feed/index.html">
-            <label for="usuario">usuario: </label>
-            <input type="text" id="usuario" name="usuario">
-            <label for="passWord">Senha: </label>
-            <input type="password" id="passWord" name="passWord">
-            <input type="submit" value="Entrar" id="btnEntrar">
-        </form>
-        <p>Nao tem uma conta? <span>inscreva-se</span></p>
+        
         <div id="modalCadastro">
             <div class="botaoFechar">
-                <!--bota de fechar o modal-->
+                <button id="btnFechar">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none"
+                        stroke="red" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="18" y1="6" x2="6" y2="18" />
+                        <line x1="6" y1="6" x2="18" y2="18" />
+                    </svg></button>
             </div>
             <form action="">
-                <input type="file" src="" accept="image/*" id="imageFile">
-                <input required type="text" id="userName" name="userName" placeholder="Nome">
-                <input required type="email" id="userEmail" name="userEmail" placeholder="Email">
-                <input required type="password" id="userPassWord" name="userPassWord" placeholder="Senha">
-               <input required type="password" id="passConfimation" name="passConfimation" placeholder="confime a senha">
-                <input required type="submit" value="Cadastrar" id="btnCadastro">
+                <div class="userUpimg">
+                    <img src=""
+                        alt="ff" srcset="">
+                    <input type="file" src="" accept="image/*" id="imageFile">
+                </div>
+                <div class="userData">
+
+                    <input required type="text" id="userName" name="userName" placeholder="Nome">
+                    <input required type="email" id="userEmail" name="userEmail" placeholder="Email">
+                    <input required type="password" id="userPassWord" name="userPassWord" placeholder="Senha">
+                    <input required type="password" id="passConfimation" name="passConfimation"
+                        placeholder="confime a senha">
+                </div>
+                <div class="conteinerbtncadastro">
+                    <input required type="submit" value="Cadastrar" id="btnCadastro">
+                </div>
 
             </form>
         </div>
+        <div class="conteinerLogin">
+            <div class="imgUser">
+                <img src="https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2021/07/james-cameron.jpeg"
+                    alt="foto do usuario">
+            </div>
+            <div class="conteinerFormulaioLogin">
+                <form action="../feed/index.html">
+                    <input type="text" id="usuario" name="usuario" placeholder="Login">
+                    <input type="password" id="passWord" name="passWord" placeholder="senha">
+                    <input type="submit" value="Entrar" id="btnEntrar">
+                </form>
+            </div>
+        </div>
+        <p class="criaConta">Nao tem uma conta? <span>inscreva-se</span></p>
     </Main>
 </body>
 

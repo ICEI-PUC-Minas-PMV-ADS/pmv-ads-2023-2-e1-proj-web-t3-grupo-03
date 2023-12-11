@@ -1,6 +1,6 @@
 
 import { userPhoto } from "../../PERFIL/src/loadUserInfo.js";
-import { loadPostsOnscreem } from "./loadPosts.js";
+import { PrintPostsOnscreem } from "./loadPosts.js";
 import { pushPost } from "./makePosts.js";
 
 
@@ -37,4 +37,4 @@ if (userPhotoLink) {
 
 
 pushPost()
-loadPostsOnscreem();
+PrintPostsOnscreem();

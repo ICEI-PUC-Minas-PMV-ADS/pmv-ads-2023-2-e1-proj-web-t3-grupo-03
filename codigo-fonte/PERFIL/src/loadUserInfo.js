@@ -12,9 +12,3 @@ let userName = userData.nome;
 let userPhotoTolink = document.querySelector('.userPhoto');
 userPhotoTolink.appendChild(userPhoto);
 
-let pname = document.createElement('p');
-pname.textContent = userData.nome;
-
-userPhotoTolink.appendChild(pname)
-
-

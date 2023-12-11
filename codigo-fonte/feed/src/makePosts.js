@@ -1,4 +1,4 @@
-import { loadPostsOnscreem, loadposts } from "./loadPosts.js";
+import { PrintPostsOnscreem, loadposts, postDassesaAtual, potsOfatualSessao } from "./loadPosts.js";
 import { onSessaAtual } from "./main.js";
 
 
@@ -9,10 +9,10 @@ const bntPublicar = document.getElementById('bntPublicar');
 
 let infoConteudo = {}
 
-class PostData {
-    constructor(user, Titulo, anoLancamento, genero, poster, diretor, runtime, userText) {
+export class PostData {
+    constructor(user, titulo, anoLancamento, genero, poster, diretor, runtime, userText) {
         this.user = user;
-        this.Titulo = Titulo;
+        this.titulo = titulo;
         this.anoLancamento = anoLancamento;
         this.genero = genero;
         this.poster = poster;
@@ -20,9 +20,10 @@ class PostData {
         this.userText = userText
         this.runtime = runtime;
         this.horaDPost = new Date();
+
     }
 }
-
+let imgDoConteudoPesquisado = document.getElementById('imgDoConteudoPesquisado');
 
 btnSearchTopost.addEventListener('click', () => {
     if (searchTopost.value == "") {
@@ -33,6 +34,7 @@ btnSearchTopost.addEventListener('click', () => {
             .then((r) => r.json())
             .then((t) => {
                 infoConteudo = t;
+                imgDoConteudoPesquisado.src = infoConteudo.Poster;
             })
             .catch((erro) => console.error(erro));
     }
@@ -40,7 +42,8 @@ btnSearchTopost.addEventListener('click', () => {
 function makeThePost() {
     if (userText.value.length != 0) {
         const novoPost = new PostData(onSessaAtual.nome, infoConteudo.Title, infoConteudo.Year, infoConteudo.Genre, infoConteudo.Poster, infoConteudo.Director, infoConteudo.Runtime, userText.value);
-        loadposts.push(novoPost);
+        potsOfatualSessao.push(novoPost);
+        
     } else {
         alert("digite algum texto");
         userText.focus();
@@ -49,10 +52,10 @@ function makeThePost() {
 
 }
 
-export function pushPost(){
-    bntPublicar.addEventListener('click', ()=>{
+export function pushPost() {
+    bntPublicar.addEventListener('click', () => {
+        postDassesaAtual();
         makeThePost();
         alert("post criado")
-        loadPostsOnscreem();
     });
 }

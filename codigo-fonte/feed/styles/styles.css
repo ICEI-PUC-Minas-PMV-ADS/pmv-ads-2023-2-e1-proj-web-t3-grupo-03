@@ -1,0 +1,182 @@
+:root {
+    --CorTexto: #324C72;
+    --CorBg: #BEFFF7;
+}
+
+body {
+    background-color: var(--CorBg);
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    position: relative;
+    font-family: inherit;
+    font-size: 1em;
+    color: var(--CorTexto);
+    margin-left: 1rem;
+    margin-top: 3rem;
+
+}
+
+header h1 {
+    font-size: 1.5em;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1.2rem;
+}
+
+.userConteiner {
+    margin-right: 1.5rem;
+    display: inline;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 5rem;
+}
+
+.userPhoto {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 15px;
+}
+
+.userPhoto img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    object-fit: contain;
+}
+
+#potsSection {
+    border-radius: 15px;
+    background-color: #6499E9;
+    width: 70%;
+    padding: 1rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: end;
+
+}
+
+.contentInformation {
+    border-radius: 10px;
+    width: 12rem;
+    height: 15rem;
+    background-color: #BEFFF7;
+    
+}
+.contentInformation input{
+    border-top-left-radius: 10px;
+}
+.contentInformation button{
+    border-top-right-radius: 10px;
+
+}
+.contentInformation button:hover{
+    background-color: red;
+}
+.contentInformation img{
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+#imgDoConteudoPesquisado img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#searchConteiner {
+    display: flex;
+    
+}
+
+#searchConteiner input {
+    width: 100%;
+    height: 1.5rem;
+    
+}
+
+#searchConteiner button {
+    width: 40%;
+    height: 1.5rem;
+    
+}
+.texArea textarea{
+    resize: none;
+    width: 100%;
+}
+.texArea{
+    width: 90%;
+    margin-left: 1rem;
+    position: relative;
+}
+.texArea button{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.loadPosts{
+    width: 70%;
+    padding: 1rem;
+    margin: 0 auto;
+}
+.conteinerPost{
+    background-color: #6499E9;
+    margin-top: 1.2rem;
+    border-radius: 15px;
+}
+.postUserAndTime{
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+.conteinerPost p{
+    
+    margin-right: 1rem;
+    margin-left: 1.2rem;
+}
+.conteinerUserText{
+    margin-left: 1.2rem;
+}
+
+.conteinerConteudoInfo{
+    margin-left: 1.2rem;
+    display: flex;
+
+
+}
+
+.ConteudoInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    text-align: left;
+    margin-left: 0.5rem;
+    padding: 0;
+}
+.ConteudoInfo h3{
+    margin: 0;
+    padding: 0;
+}
+.ConteudoInfo p{
+    margin: 0;
+    margin-top: 1rem;
+}
+
+.conteinerConteudoInfo{
+    padding: 0.7rem;
+}
+.conteinerConteudoInfo img{
+    border-radius: 10px;
+}

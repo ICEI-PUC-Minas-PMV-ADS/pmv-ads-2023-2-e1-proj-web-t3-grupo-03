@@ -5,14 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="module" src="./src/main.js" defer></script>
-    <title>ReComunity - feed</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>ReCommunity - feed</title>
 </head>
 
 <body>
 
     <header>
         <div class="logo">
-            <h1><a href="./index.html">ReComunity</a></h1>
+            <h1><a href="./index.html">ReCommunity</a></h1>
         </div>
         <div class="userConteiner">
             <div class="userPhoto">
@@ -29,25 +34,25 @@
     <main>
         <section id="potsSection">
             <div class="contentInformation">
-                <div>
                     <div id="searchConteiner">
                         <input type="search" placeholder="dark souls" id="searchTopost">
                         <button id="btnSearchTopost" type="submit"><img src="../icons/searchIcon.svg"
                                 alt="icone de pesquisa" srcset=""></button>
                     </div>
-                    <img id="imgDoConteudoPesquisado" src="#" alt="imagem do conteudo pesquisado" srcset="">
-                </div>
+                    <img id="imgDoConteudoPesquisado" src="#" alt="" srcset="">
             </div>
-            <div class="">
+            <div class="texArea">
                 <textarea name="" id="userText" cols="30" rows="10"></textarea>
                 <button id="bntPublicar" type="submit">publicar</button>
             </div>
         </section>
 
         <section class="loadPosts">
+            <div class="erickSafado">
+
+            </div>
             <button id="BtnCompartilhar">Compartilhar</button>
             <div id="PostLoaded">
-                <button id="Btnfav">favoritar</button>
             </div>
             <div class="fazerComentarios">
                 <textarea name="Comentarios" id="Comentarios" cols="30" rows="10"></textarea>

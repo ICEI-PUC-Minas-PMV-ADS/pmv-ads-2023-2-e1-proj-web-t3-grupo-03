@@ -3,6 +3,7 @@ apos o usuario clicar no botao cadatrar se tudo estiver correto, o usuario sera
 cadastrado no local storage*/
 
 import { criaUser } from "./cadastro.js";
+import { modalCadastro } from "./main.js";
 
 
 let userName = document.getElementById('userName');
@@ -17,6 +18,7 @@ btnCadastro.addEventListener('click', (e) => {
     VerificaCampos();
     ComparandoSenhas(userPassWord, passConfimation);
     criaUser(userName.value, userEmail.value, userPassWord.value, imageFile);
+    modalCadastro.style.display = 'none';
 
 })
 
